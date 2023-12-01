@@ -1,5 +1,7 @@
-# This folder contains **Climate TRACE 2023 methodologies**. 
+#  **Climate TRACE 2023 methodologies**. 
 ## These methodologies reflect changes and updates to the emissions estimates on the Climate TRACE website: https://climatetrace.org/
-## A few notes on the methodologies in these subfolders:
-   1) Methodologies with a watermark "Draft" will be updated in the near future.
-   2) Methodologies without a watermark "Draft" are final versions.
+## Updates for 2023:
+   1) Expanded sector coverage, including: reservoirs and wastewater treatment plants.
+   2) Expanded coverage in Fossil Fuel operations.
+   3) Agriculture sector: more detailed cattle emissions estimates broken down by individual and country-level feedlots and dairies, and pastures. 
+   4) For sectors not covered by Climate TRACE, refer to the folder "Other and non-Climate TRACE Estimated Sectors".
