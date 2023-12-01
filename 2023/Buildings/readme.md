@@ -1,1 +1,1 @@
-
+For buildings emissions, refer to the document ["Implicitly Estimated National Greenhouse Gas Emissions"](https://github.com/climatetracecoalition/methodology-documents/blob/main/2023/Other%20and%20non-Climate%20TRACE%20Estimated%20Sectors/Implicitly%20Estimated%20National%20Greenhouse%20Gas%20Emissions.docx.pdf)
