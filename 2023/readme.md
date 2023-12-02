@@ -5,4 +5,5 @@
    2) Expanded subsector coverage in Fossil Fuel operations.
    3) Agriculture sector: more detailed cattle emissions estimates broken down by individual and country-level feedlots and dairies, and pastures.
    4) Expanded ownership information.
-   5) For sectors not covered by Climate TRACE, refer to the folder "Other and non-Climate TRACE Estimated Sectors".
+
+For sectors not covered by Climate TRACE, refer to the folder "Other and non-Climate TRACE Estimated Sectors".
