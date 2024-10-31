@@ -1,1 +1,1 @@
-## 2024 sectors covered by Climate TRACE
+## Climate TRACE sectors covered for the fall 2024 database update
