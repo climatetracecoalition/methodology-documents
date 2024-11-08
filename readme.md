@@ -4,4 +4,4 @@
 ### Previous versions of the methodologies are available in the 2022 and 2023 subfolder. 
   - *Note for 2023 methodologies: Fossil Fuel Operations sectors and "Asset & Company-Level Ownership" methodology were removed. Refer to 2024 version for the most up-to-date documentation.*
 ### To view our emissions data, visit the [Climate TRACE website](https://climatetrace.org/).
-### To view our list of publications and mentions, visit the Climate TRACE [Peer-reviwed publications and mentions](https://github.com/climatetracecoalition/peer-reviewed-publications/blob/main/Climate%20TRACE%20Peer-reviewed%20Articles%20and%20Mentions.pdf).
+### To view our list of publications and mentions, visit the Climate TRACE [Peer-reviwed publications and mentions repo](https://github.com/climatetracecoalition/peer-reviewed-publications/blob/main/Climate%20TRACE%20Peer-reviewed%20Articles%20and%20Mentions.pdf).
