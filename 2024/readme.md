@@ -8,7 +8,7 @@
   - [Non-greenhouse gas emissions estimates for all sectors](https://github.com/climatetracecoalition/methodology-documents/blob/main/2024/Non%20Greenhouse%20Gases/Non-Greenhouse%20Gas%20Emissions%20Estimates%20Across%20Sectors.docx.pdf). 
 
 Asset-level (source-level) data and data aggregated to GADM and Global Human Settlement Functional Urban Areas (GHS-FUA) boundaries are available on the [Climate TRACE website](https://climatetrace.org/).
-### Additionally, Climate TRACE has developed a suite of spatial, temporal, and sectoral modeling approaches to improve greenhouse gas emissions monitoring global. This includes:
+### Additionally, Climate TRACE has developed a suite of spatial, temporal, and aggregation modeling approaches to improve global greenhouse gas emissions monitoring. This includes:
   1) [Aggregation of Point Source Emissions to Spatial Emissions with Uncertainty](https://github.com/climatetracecoalition/methodology-documents/blob/main/2024/Post%20Processing%20for%20Global%20Emissions%20and%20Metadata%20Completeness/Aggregation%20of%20Point%20Source%20Emissions%20to%20Spatial%20Emissions%20with%20Uncertainty.docx.pdf) 
   2) [Completeness of Bottom-up Emissions Estimates and Associated Metadata](https://github.com/climatetracecoalition/methodology-documents/blob/main/2024/Post%20Processing%20for%20Global%20Emissions%20and%20Metadata%20Completeness/Completeness%20of%20Bottom-up%20Emissions%20Estimates%20and%20Associated%20Metadata.docx.pdf) 
   3) [Spatial Disaggregation of Remainder Emissions](https://github.com/climatetracecoalition/methodology-documents/blob/main/2024/Post%20Processing%20for%20Global%20Emissions%20and%20Metadata%20Completeness/Spatial%20Disaggregation%20of%20Remainder%20Emissions.docx.pdf)
