@@ -1,4 +1,4 @@
-## The Climate TRACE 2024 database update provides novel emissions estimates for 25 subsectors in the 9 sector directories above
+## The Climate TRACE 2024 database update provides novel emissions estimates for 25 subsectors
 ## Updates for 2024 include:
   - Emissions estimated for years 2015 to 2023; some sectors include up to summer 2024.
   - Emissions estimates are provided at the annual, quarterly, and/or monthly temporal resolutions, depending on the sector.
