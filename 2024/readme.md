@@ -8,9 +8,9 @@
 Asset-level data and data aggregated to GADM and Global Human Settlement Functional Urban Areas (GHS-FUA) boundaries are available on the [Climate TRACE website](https://climatetrace.org/).
 ### Additionally, Climate TRACE has developed a suite of spatial, temporal, and sectoral modeling approaches to improve greenhouse gas emissions monitoring global. This includes:
   1) [Aggregation of Point Source Emissions to Spatial Emissions with Uncertainty](https://github.com/climatetracecoalition/methodology-documents/blob/main/2024/Post%20Processing%20for%20Global%20Emissions%20and%20Metadata%20Completeness/Aggregation%20of%20Point%20Source%20Emissions%20to%20Spatial%20Emissions%20with%20Uncertainty.docx.pdf) 
-  2) [Bottom-up and Implicit Estimation of Emissions in Other Sub-sectors](https://github.com/climatetracecoalition/methodology-documents/blob/main/2024/Post%20Processing%20for%20Global%20Emissions%20and%20Metadata%20Completeness/Completeness%20of%20Bottom-up%20Emissions%20Estimates%20and%20Associated%20Metadata.docx.pdf) 
-  3) [Completeness of Bottom-up Emissions Estimates and Associated Metadata](https://github.com/climatetracecoalition/methodology-documents/blob/main/2024/Post%20Processing%20for%20Global%20Emissions%20and%20Metadata%20Completeness/Spatial%20Disaggregation%20of%20Remainder%20Emissions.docx.pdf)
-  4) Spatial Disaggregation of Remainder Emissions
+  2) Bottom-up and Implicit Estimation of Emissions in Other Sub-sectors
+  3) [Completeness of Bottom-up Emissions Estimates and Associated Metadata](https://github.com/climatetracecoalition/methodology-documents/blob/main/2024/Post%20Processing%20for%20Global%20Emissions%20and%20Metadata%20Completeness/Completeness%20of%20Bottom-up%20Emissions%20Estimates%20and%20Associated%20Metadata.docx.pdf) 
+  4) [Spatial Disaggregation of Remainder Emissions](https://github.com/climatetracecoalition/methodology-documents/blob/main/2024/Post%20Processing%20for%20Global%20Emissions%20and%20Metadata%20Completeness/Spatial%20Disaggregation%20of%20Remainder%20Emissions.docx.pdf)
   5) [Temporal Disaggregation of Emissions Data for the Climate TRACE Inventory](https://github.com/climatetracecoalition/methodology-documents/blob/main/2024/Post%20Processing%20for%20Global%20Emissions%20and%20Metadata%20Completeness/Temporal%20Disaggregation%20of%20Emissions%20Data%20for%20the%20Climate%20TRACE%20Inventory.docx.pdf)
 
  The above datasets are available upon request at coalition@climatetrace.org
