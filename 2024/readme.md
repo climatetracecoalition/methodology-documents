@@ -2,6 +2,7 @@
 ## Updates for 2024 include:
   - Emissions estimated for years 2015 to 2023; some sectors include summer 2024.
   - Depending on sector, emissions estimates are provided at the annual, quaterly, and/or monthly temporal resolutions.
+  - [Non-greenhouse gas emissions estimates for all sectors](https://github.com/climatetracecoalition/methodology-documents/blob/main/2024/Non%20Greenhouse%20Gases/Non-Greenhouse%20Gas%20Emissions%20Estimates%20Across%20Sectors.docx.pdf). 
   - Increased asset (source-level) emissions coverage, including: cattle operations, international and domestic shipping, and wasterwater treament plants.
   - [Building sector emissions added](https://github.com/climatetracecoalition/methodology-documents/blob/main/2024/Buildings/Building%20Sector%20Methodology%20draft2024.docx.pdf).
 
