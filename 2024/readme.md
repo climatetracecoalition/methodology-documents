@@ -1,5 +1,5 @@
 ## The Climate TRACE 2024 database update provides novel emissions estimates for 25 subsectors
-## Updates for 2024 include:
+## 2024 updates include:
   - Emissions estimated for years 2015 to 2023; some sectors include up to summer 2024.
   - Emissions estimates are provided at the annual, quarterly, and/or monthly temporal resolutions, depending on the sector.
   - Increased asset (source-level) emissions coverage, including: cattle operations, international and domestic shipping, and wasterwater treament plants.
@@ -14,4 +14,4 @@ Asset-level (source-level) data and data aggregated to GADM and Global Human Set
   3) [Spatial Disaggregation of Remainder Emissions](https://github.com/climatetracecoalition/methodology-documents/blob/main/2024/Post%20Processing%20for%20Global%20Emissions%20and%20Metadata%20Completeness/Spatial%20Disaggregation%20of%20Remainder%20Emissions.docx.pdf)
   3) [Temporal Disaggregation of Emissions Data for the Climate TRACE Inventory](https://github.com/climatetracecoalition/methodology-documents/blob/main/2024/Post%20Processing%20for%20Global%20Emissions%20and%20Metadata%20Completeness/Temporal%20Disaggregation%20of%20Emissions%20Data%20for%20the%20Climate%20TRACE%20Inventory.docx.pdf)
 
- The above datasets are available upon request at coalition@climatetrace.org
+ The above 4 datasets are available upon request at coalition@climatetrace.org
