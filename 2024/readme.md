@@ -11,7 +11,7 @@ Both files located in the [README directory](https://github.com/climatetracecoal
   - Increased asset (source-level) emissions coverage, including: cattle operations, international and domestic shipping, and wasterwater treament plants.
   - Some of the Climate TRACE 2023 (v3) sectors have been split up, such as residential and non-residential on-site fuel consumption, oil and gas production and transport, etc.
   - New subsectors have been added such as lime and glass production, and [Building sector on-site emissions](https://github.com/climatetracecoalition/methodology-documents/blob/main/2024/Buildings/Building%20Sector%20Methodology%20draft2024.docx.pdf).
-  - Improved Bottom-up and Implicit Estimation of Emissions in Other Sub-sectors.
+  - [Improved Bottom-up and Implicit Estimation of Emissions in Other Sub-sectors](https://github.com/climatetracecoalition/methodology-documents/blob/main/2024/Other%20Sectors/Other%20Sectors-Data%20informed%20disaggregation%20and%20Implicit%20Estimation%20Methodology.docx.pdf).
   - [Non-greenhouse gas emissions estimates for most sectors](https://github.com/climatetracecoalition/methodology-documents/blob/main/2024/Non%20Greenhouse%20Gases/Non-Greenhouse%20Gas%20Emissions%20Estimates%20Across%20Sectors.docx.pdf). 
 
 Asset-level (source-level) data can be downloaded on the [Climate TRACE website](https://climatetrace.org/). 
