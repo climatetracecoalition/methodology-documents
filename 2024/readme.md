@@ -1,5 +1,11 @@
-## The Climate TRACE 2024 database update provides novel emissions estimates for various sectors
-## 2024 updates include:
+## The Climate TRACE 2024 (version 4)
+A full list of 2024 updates can be found in [*READ ME_Climate TRACE_v4 release_Nov2024 - About the data_v4*](https://github.com/climatetracecoalition/methodology-documents/blob/main/2024/README/READ%20ME_Climate%20TRACE_v4%20release_Nov2024%20-%20About%20the%20data_v4.pdf) 
+
+For Climate TRACE data schema, refer to [*Climate TRACE_Detailed data schema_v4*](https://github.com/climatetracecoalition/methodology-documents/blob/main/2024/README/Climate%20TRACE_Detailed%20data%20schema_v4.csv)
+
+Both files located in the [README directory](https://github.com/climatetracecoalition/methodology-documents/tree/main/2024/README)
+
+## 2024 update highlights include:
   - Emissions estimated for years 2015 to 2023; with projected emissions through 2024.
   - Emissions estimates are provided at monthly temporal resolutions.
   - Increased asset (source-level) emissions coverage, including: cattle operations, international and domestic shipping, and wasterwater treament plants.
