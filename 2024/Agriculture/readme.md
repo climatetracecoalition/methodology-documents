@@ -14,4 +14,4 @@ Climate TRACE updated this sector's definition from feedlots and dairies to *“
 
 - **Crop residues emissions** - estimates compiled from FAOSTAT
 
-- **Other agricultural soil emissions** - compiled with FAOSTAT and EDGAR. See Moore et al. (2024), *Data-Informed Disaggregation and Implicit Estimation of Emissions in Other Subsectors* in the [*Other Sectors* directory](https://github.com/climatetracecoalition/methodology-documents/tree/main/2024/Other%20Sectors)
+- **Other agricultural soil emissions** - compiled with FAOSTAT and EDGAR. See Moore et al. (2024), *[Data-Informed Disaggregation and Implicit Estimation of Emissions in Other Subsectors](https://github.com/climatetracecoalition/methodology-documents/blob/main/2024/Other%20Sectors/Other%20Sectors-Data%20informed%20disaggregation%20and%20Implicit%20Estimation%20Methodology.docx.pdf)*.
