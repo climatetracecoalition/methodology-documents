@@ -5,7 +5,7 @@ For Climate TRACE data schema, refer to [*Climate TRACE_Detailed data schema_v4*
 
 Both files located in the [README directory](https://github.com/climatetracecoalition/methodology-documents/tree/main/2025/README)
 
-## 2025 update highlights include:
+## 2025 highlights include:
   - Changelogs
   - Emissions estimated for years 2015 to 2023; with projected emissions through 2024.
   - [Emissions estimates are provided at monthly temporal resolutions](https://github.com/climatetracecoalition/methodology-documents/blob/main/2024/Post%20Processing%20for%20Global%20Emissions%20and%20Metadata%20Completeness/Temporal%20Disaggregation%20of%20Emissions%20Data%20for%20the%20Climate%20TRACE%20Inventory.docx.pdf).
