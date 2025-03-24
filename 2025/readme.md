@@ -1,13 +1,15 @@
 ## Climate TRACE 2025 (version 4.1)
-2025 database updates are the same as 2024 database updates, which can be found in [*READ ME_Climate TRACE_v4 release_Nov2024 - About the data_v4*](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/README/READ%20ME_Climate%20TRACE_v4%20release_Nov2024%20-%20About%20the%20data_v4.pdf) 
+The 2025 database updates will be provided at the end of every month.
 
-For Climate TRACE data schema, refer to [*Climate TRACE_Detailed data schema_v4*](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/README/Climate%20TRACE_Detailed%20data%20schema_v4.csv)
+A [*Changelogs*](https://github.com/climatetracecoalition/methodology-documents/tree/main/2025/CHANGELOG) directory is provided to describe the individual sectors that were updated every month. 
 
-Both files located in the [README directory](https://github.com/climatetracecoalition/methodology-documents/tree/main/2025/README)
+Climate TRACE v4.1 are updates of the fall 2024 database (v4.0) release, which can be found in [*READ ME_Climate TRACE_v4 release_Nov2024 - About the data_v4*](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/README/READ%20ME_Climate%20TRACE_v4%20release_Nov2024%20-%20About%20the%20data_v4.pdf).  
+
+The Climate TRACE data schema can be found in [*Climate TRACE_Detailed data schema_v4*](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/README/Climate%20TRACE_Detailed%20data%20schema_v4.csv).
 
 ## 2025 highlights include:
-  - Changelogs
-  - Emissions estimated for years 2015 to 2023; with projected emissions through 2024.
+  - [Changelogs](https://github.com/climatetracecoalition/methodology-documents/tree/main/2025/CHANGELOG), detailing monthly updates. 
+  - Emissions estimated for years 2015 to 2023 (2024 to early 2025 for some sectors).
   - [Emissions estimates are provided at monthly temporal resolutions](https://github.com/climatetracecoalition/methodology-documents/blob/main/2024/Post%20Processing%20for%20Global%20Emissions%20and%20Metadata%20Completeness/Temporal%20Disaggregation%20of%20Emissions%20Data%20for%20the%20Climate%20TRACE%20Inventory.docx.pdf).
   - Increased asset (source-level) emissions coverage, including: cattle operations, international and domestic shipping, and wasterwater treament plants.
   - Some of the Climate TRACE 2023 (v3) sectors have been split up, such as residential and non-residential on-site fuel consumption, oil and gas production and transport, etc.
