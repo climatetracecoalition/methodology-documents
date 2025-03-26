@@ -1,0 +1,735 @@
+﻿# [4.1.0] - 2025-03-28
+## ClimateTRACE,multiple-sectors
+### Added
+### Changed
+- [Changed] The global warming potential (GWP) values used for converting methane into CO2-equivalents have now been updated to use values from the Sixth Assessment Report of the Intergovernmental Panel on Climate Change, namely, 27.0 (non-fossil) and 29.8 (fossil) respectively for the 100-year time horizon, and 79.7 (non-fossil) and 82.5 (fossil) respectively for the 20-year time horizon.
+- [Changed] In some cases where a timestamp is missing between other timestamps, zeros are filled in rather than forward or backward filling non-zero values from neighboring timestamps, to account for assets that are not in operation. 
+- [Changed] Proxy used for agriculture sectors updated to use “low-density-rural” and “very-low-density-rural” from GHS Settlement Model rather than “rural-cluster” and “very-low-density-rural”
+- [Changed] No longer report a timestamp for anything inferred to be closed or have not opened: Assets are grouped by initial start times or final end times, and any groupings comprising < 25% of the assets in the sector are assumed to have different timestamp ranges because they are closed and/or have not opened.
+### Deprecated
+- [Deprecated] In the previous release, GWP values used to convert methane into CO2-equivalents - 27.9 (100-year time horizon) and 81.1 (20-year time horizon) - are no longer in use. See above bullet point. 
+### Fixed
+### Known Issues
+## agriculture,crop-residues
+### Added
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+## agriculture,cropland-fires
+### Added
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## agriculture,enteric-fermentation-cattle-operation
+### Added
+- [Added] U.S. Department of Agriculture (USDA) cattle data to U.S. country-level emissions estimates. (See methodology: https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Agriculture/Agriculture%20sector-Country-level%20Enteric%20fermentation%20and%20Manure%20Management%20Emissions%20Estimates%20from%20Cattle%20Operations.docx.pdf)
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+- [Changed] Recalculated U.S.country-level enteric fermentation emissions estimates from cattle operations (see link above). 
+### Deprecated 
+- [Deprecated] Food and Agriculture Organization (FAO) cattle data from U.S. country-level emissions estimates and replaced with USDA data.
+### Fixed
+### Known Issues
+## agriculture,enteric-fermentation-cattle-pasture
+### Added
+[Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## agriculture,enteric-fermentation-other
+### Added
+### Changed
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9.
+### Deprecated
+### Fixed
+### Known Issues
+## agriculture,manure-applied-to-soils
+### Added
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+## agriculture,manure-left-on-pasture-cattle
+### Added
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## agriculture,manure-management-cattle-operation
+### Added
+- [Added] U.S. Department of Agriculture (USDA) cattle data to U.S. country-level emissions estimates. (See methodology: https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Agriculture/Agriculture%20sector-Country-level%20Enteric%20fermentation%20and%20Manure%20Management%20Emissions%20Estimates%20from%20Cattle%20Operations.docx.pdf)
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+- [Changed] Recalculated U.S.country-level manure management emissions estimates from cattle operations (see link above). 
+### Deprecated 
+- [Deprecated] Food and Agriculture Organization (FAO) cattle data from U.S. country-level emissions estimates and replaced with USDA data.
+### Fixed
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## agriculture,manure-management-other
+### Added
+### Changed
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9.
+### Deprecated
+### Fixed
+### Known Issues
+## agriculture,other-agricultural-soil-emissions
+### Added
+### Changed
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9.
+### Deprecated
+### Fixed
+### Known Issues
+## agriculture,rice-cultivation
+### Added
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## agriculture,synthetic-fertilizer-application
+### Added
+- [Added] Data period extended for existing sources. Start_date 2024-1-01 to end_date 2024-12-31.
+- [Added] Data period projected forward for existing sources. Start_date 2025-01-01 to end_date 2025-01-31.  
+### Changed
+- [Changed] Updated emissions factors to account for the fraction of N2O emitted in a given month.
+### Deprecated
+### Fixed
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## buildings,non-residential-onsite-fuel-usage
+### Added
+- [Added] NMVOC data for start_date 2015-01-01 to end_date 2022-12-31.
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## buildings,other-onsite-fuel-usage
+### Added
+### Changed
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9.
+### Deprecated
+### Fixed
+### Known Issues
+## buildings,residential-onsite-fuel-usage
+### Added
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+- [Added] NMVOC data for start_date 2015-01-01 to end_date 2022-12-31.
+### Changed
+### Deprecated
+### Fixed
+
+
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## fluorinated-gases,fluorinated-gases
+### Added
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+## forestry-and-land-use,forest-land-clearing
+### Added
+- [Added] Data period extended for existing sources. Start_date 2024-01-01 to end_date 2024-12-31.
+- [Added] Data period projected forward. Start_date 2025-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## forestry-and-land-use,forest-land-degradation
+### Added
+- [Added] Data period extended for existing sources. Start_date 2024-01-01 to end_date 2024-12-31. 
+- [Added] Data period projected forward. Start_date 2025-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## forestry-and-land-use,forest-land-fires
+### Added
+- [Added] Data period extended for existing sources. Start_date 2024-01-01 to end_date 2024-12-31.
+- [Added] Data period projected forward. Start_date 2025-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## forestry-and-land-use,net-forest-land
+### Added
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## forestry-and-land-use,net-shrubgrass
+### Added
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## forestry-and-land-use,net-wetland
+### Added
+- [Added] Data period projected forward. Start_date 2025-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+## forestry-and-land-use,removals
+### Added
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+## forestry-and-land-use,shrubgrass-fires
+### Added
+- [Added] Data period extended for existing sources. Start_date 2024-01-01 to end_date 2024-12-31.
+- [Added] Data period projected forward. Start_date 2025-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## forestry-and-land-use,water-reservoirs
+### Added
+- [Added] Data period extended for existing sources. Start_date 2024-01-01 to end_date 2024-12-31.
+
+
+- [Added] Data period projected forward. Start_date 2025-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## forestry-and-land-use,wetland-fires
+### Added
+- [Added] Data period extended for existing sources. Start_date 2024-01-01 to end_date 2024-12-31.
+- [Added] Data period projected forward. Start_date 2025-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## fossil-fuel-operations,coal-mining
+### Added
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+## fossil-fuel-operations,oil-and-gas-production
+### Added
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+## fossil-fuel-operations,oil-and-gas-refining
+### Added
+- [Added] Data period extended for existing sources in North America and Europe. Start_date 2024-04-01 to end_date 2024-06-30.
+- [Added] Data period projected forward for existing sources in North America and Europe. Start_date 2024-07-01 to end_date 2025-01-31.
+- [Added] Data period projected forward for existing sources for the rest of the world. Start_date 2024-01-01 to end_date 2025-01-31.
+- [Added] Added coverage. 2 new assets added, referring to id #841 and #842.
+### Changed
+### Deprecated
+### Fixed
+- [Fixed] For all other 3 (human health cancer - CTU), other 4 (human health non-cancer - CTU), and other 5 (ecotoxicity - CTU), there was an error on unit conversion. The data submitted this time, along with half-year estimates submitted at the end of January 2025, are correct. Essentially, if the periods were the same, the new submission of these three indicators should be 1000 times the values reported in the previous annual data submission in Aug 2024.
+### Known Issues
+## fossil-fuel-operations,oil-and-gas-transport
+### Added
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+## fossil-fuel-operations,other-fossil-fuel-operations
+### Added
+### Changed
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9.
+### Deprecated
+### Fixed
+### Known Issues
+## fossil-fuel-operations,other-solid-fuels
+### Added
+### Changed
+- [Changed] Renamed subsector. [solid-fuel-transformation] renamed to [other-solid-fuels].
+
+
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9.
+### Deprecated
+### Fixed
+### Known Issues
+## manufacturing,aluminum
+### Added 
+
+
+- [Added] Data period projected forward. Start_date 2024-10-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+## manufacturing,cement
+### Added
+- [Added] Data period extended for existing sources. Start_date 2025-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+## manufacturing,chemicals
+### Added
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+## manufacturing,other-manufacturing
+### Added
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9.
+### Deprecated
+### Fixed
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## manufacturing,petrochemical-steam-cracking
+### Added
+- [Added] Data period extended for existing sources in North America and Europe. Start_date 2024-04-01 to end_date 2024-06-30.
+- [Added] Data period projected forward for existing sources in North America and Europe. Start_date 2024-07-01 to end_date 2025-01-31.
+### Changed 
+- [Changed] Updated metadata definition. [capacity adjusted to tons of ethylene/quarter (as defined by data period listed above)].
+### Deprecated
+### Fixed
+### Known Issues
+## manufacturing,pulp-and-paper
+### Added
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+## manufacturing,iron-and-steel
+### Added
+- [Added] Data period extended for existing sources. Start_date 2025-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+## manufacturing,other-chemicals
+### Added
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9.
+### Deprecated
+### Fixed
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## manufacturing,glass
+### Added
+- [Added] Data period projected forward. Start_date 2025-01-01 to end_date 2025-01-31.
+### Changed 
+- [Changed] Updated model for all data. Activity quantification method updated to take global average output per facility, rather than the median of country-level output per facility. (Methodology update: https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Other%20Sectors/Other%20Sectors-Data%20informed%20disaggregation%20and%20Implicit%20Estimation%20Methodology.docx.pdf)
+- [Changed] Updated metadata. Capacity, activity and related emissions_factors values updated due to change in model (see previous bullet).
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9.
+### Deprecated
+### Fixed
+### Known Issues 
+## manufacturing,lime
+### Added 
+- [Added] Added coverage. 46 new sources added.
+- [Added] New technology types (75 unique types) added.
+- [Added] Data period projected forward. Start_date 2025-01-01 to end_date 2025-01-31.
+### Changed 
+- [Changed] Updated model for all data. For countries with zero emissions, via gap-filling, but nonzero activity (i.e. production data from USGS), global emission factors, defined as the sum of emissions divided by the sum of lime produced for all countries with nonzero emissions and nonzero activity, were used to estimate emissions quantities, which are subsequently disaggregated to assets.
+- [Changed] Updated metadata. Capacity, activity and related emissions_factors values updated due to change in model (see previous bullet).
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9.
+### Deprecated
+### Fixed
+### Known Issues 
+## manufacturing,food-beverage-tobacco
+### Added 
+- [Added] Added coverage. 464 new sources added.
+- [Added] New technology types (305 unique types) added.
+- [Added] Data period projected forward. Start_date 2025-01-01 to end_date 2025-01-31.
+### Changed 
+- [Changed] Updated model for all data. Activity quantification method updated to take global average output per facility, rather than the median of country-level output per facility. (Methodology update: https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Other%20Sectors/Other%20Sectors-Data%20informed%20disaggregation%20and%20Implicit%20Estimation%20Methodology.docx.pdf)
+- [Changed] Updated metadata. Capacity, activity and related emissions_factors values updated due to change in model (see previous bullet).
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9.
+### Deprecated
+### Fixed
+### Known Issues 
+## manufacturing,wood-and-wood-products
+### Added
+### Changed
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9.
+### Deprecated
+### Fixed
+### Known Issues
+## manufacturing,textiles-leather-apparel
+### Added
+- [Added] New technology types (1,243 unique types) added.
+- [Added] Data period projected forward. Start_date 2025-01-01 to end_date 2025-01-31.
+### Changed
+- [Changed] Updated model for all data. Activity quantification method updated to take global average output per facility, rather than the median of country-level output per facility (Methodology update: https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Other%20Sectors/Other%20Sectors-Data%20informed%20disaggregation%20and%20Implicit%20Estimation%20Methodology.docx.pdf).
+- [Changed] Updated metadata. Capacity, activity and related emissions_factors values updated due to change in model (see previous bullet).
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9.
+### Deprecated
+### Fixed
+- [Fixed] Duplicate assets were removed (total of 2,093).
+### Known Issues
+## manufacturing,other-metals
+### Added
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9.
+### Deprecated
+### Fixed
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## mineral-extraction,other-mining-quarrying
+### Added
+### Changed
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9.
+### Deprecated
+### Fixed
+### Known Issues
+## mineral-extraction,bauxite-mining
+### Added
+- [Added] Data period projected forward. Start_date 2025-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## mineral-extraction,copper-mining
+### Added
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## mineral-extraction,iron-mining
+### Added
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## mineral-extraction,rock-quarrying
+### Added
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+## mineral-extraction,sand-quarrying
+### Added
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+## power,electricity-generation
+### Added
+- [Added] Data period extended for existing sources (through end_date 2025-01-31).
+### Changed 
+- [Changed] Updated biomass unit information using updated Global Biomass Project Tracker from GEM (See updated methodology: https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Power/Power%20sector-Emissions%20from%20Electricity%20Generation.docx.pdf).
+- [Changed] Updated gas unit information using updated Global Gas Project Tracker from GEM.
+- [Changed] Updated new links to data-sources. Means improved estimates for a few plants.
+### Deprecated
+### Fixed
+- [Fixed] CO2_emissions had a possibility of having a very small near-zero value (ex: -2e-16). This was fixed to be zeroed out.
+- [Fixed] Changed emissions factor uncertainty from t/gwh to t/mwh for all 4 gases we report on.
+- [Fixed] Minor bug fix to properly source raw data. Improved unit level information.
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## power,other-energy-use
+### Added
+### Changed
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9.
+### Deprecated
+### Fixed
+### Known Issues
+## power,heat-plants
+### Added
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+## transportation,domestic-aviation
+### Added
+- [Added] Data period extended for existing sources. Start_date 2024-07-01 to end_date 2025-02-28.
+### Changed
+### Deprecated
+### Fixed
+- [Fixed] Fixed location for source Lomlom Airport
+
+
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## transportation,non-broadcasting-vessels
+### Added
+- [Added] Data period extended. Start_date 2025-01-01 to end_date 2025-01-31.
+### Changed 
+- [Changed] Updated model_number to _v20250228
+- [Changed] Improved filtering of sea ice for Sentinel-1 detections
+- [Changed] Improved matching of Sentinel-1 detections to AIS vessels
+### Deprecated
+### Fixed
+### Known Issues
+## transportation,domestic-shipping
+### Added
+
+
+- [Added] 918 new port locations have been labeled and added
+
+
+- [Added] Extended shapefiles for identifying holding areas
+
+
+- [Added] Added 3 oil tankers to be modelled by OM model
+
+
+- [Added] GFW data period extended. Start_date 2025-01-01 to end_date 2025-01-31.
+
+
+### Changed
+
+
+- [Changed] Updated GFW model_number to _v20241121
+
+
+- [Changed] Three new pollutants now provided directly by GFW: PM2.5, PM10, and VOCs (more details here: https://emlab-ucsb.github.io/ocean-ghg/ais_model.html#sec-methods-additional-pollutants)
+
+
+- [Changed] GFW improved vessel classification algorithm for cargo vessels (more details here: https://emlab-ucsb.github.io/ocean-ghg/ais_model.html#vessel-characteristics)
+
+
+- [Changed] GFW improved emissions model for fishing vessels (more details here: https://emlab-ucsb.github.io/ocean-ghg/ais_model.html#main-engine-energy-use)
+- [Changed] GFW improved estimation of design speed (more details here: https://emlab-ucsb.github.io/ocean-ghg/ais_model.html#vessel-characteristics)
+
+
+- [Changed] GFW improved filtering of segment noise  (more details here: https://emlab-ucsb.github.io/ocean-ghg/ais_model.html#sec-methods-data-ais-messages)
+
+
+- [Changed] Separated non-broadcasting vessels (dark vessels) into their own subsector from international-shipping. See “non-broadcasting vessels” changelog.
+### Deprecated
+### Fixed
+
+
+- [Fixed] OM corrected pollution incorrectly attributed to Abidiya, Egypt
+
+
+- [Fixed] Removal of the derelict port Honuapo, Hawaii, USA
+
+
+- [Fixed] Inconsistent port location in port files across international and domestic shipping sectors
+
+
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## transportation,international-aviation
+### Added
+- [Added] Data period extended for existing sources. Start_date 2024-07-01 to end_date 2025-02-28.
+### Changed
+### Deprecated
+### Fixed
+- [Fixed] Fixed location for source Lomlom Airport
+
+
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## transportation,international-shipping
+### Added
+
+
+- [Added] 918 new port locations have been labeled and added
+
+
+- [Added] Extended shapefiles for identifying holding areas
+
+
+- [Added] Added 3 oil tankers to be modelled by OM model
+
+
+- [Added] GFW data period extended. Start_date 2025-01-01 to end_date 2025-01-31.
+
+
+### Changed
+
+
+- [Changed] Updated GFW model_number to _v20241121
+
+
+- [Changed] Three new pollutants now provided by directly by GFW: PM2.5, PM10, and VOCs (more details here: https://emlab-ucsb.github.io/ocean-ghg/ais_model.html#sec-methods-additional-pollutants)
+
+
+- [Changed] GFW improved vessel classification algorithm for cargo vessels (more details here: https://emlab-ucsb.github.io/ocean-ghg/ais_model.html#vessel-characteristics)
+
+
+- [Changed] GFW improved emissions model for fishing vessels (more details here: https://emlab-ucsb.github.io/ocean-ghg/ais_model.html#main-engine-energy-use)
+
+
+- [Changed] GFW improved estimation of design speed (more details here: https://emlab-ucsb.github.io/ocean-ghg/ais_model.html#vessel-characteristics)
+
+
+- [Changed] GFW improved filtering of segment noise  (more details here: https://emlab-ucsb.github.io/ocean-ghg/ais_model.html#sec-methods-data-ais-messages)
+### Deprecated
+### Fixed
+
+
+- [Fixed] OM corrected pollution incorrectly attributed to Abidiya, Egypt
+
+
+- [Fixed] Removal of the derelict port Honuapo, Hawaii, USA
+
+
+- [Fixed] Inconsistent port location in port files across international and domestic shipping sectors
+
+
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## transportation,other-transport
+### Added
+### Changed
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9.
+### Deprecated
+### Fixed
+### Known Issues
+## transportation,railways
+### Added
+### Changed
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9
+### Deprecated
+### Fixed
+### Known Issues
+## transportation,road-transportation
+### Added
+- [Added] Data period extended for existing sources. Start_date 2025-01-01 to end_date 2025-01-31.
+### Changed
+- [Changed] Updated emissions and activity data based on bug fixes for 2021-2024.
+### Deprecated
+### Fixed 
+- [Fixed] Fixed bug preventing all road indices from being included when combining multiple models; this updated data from 2021 to January 2025.
+- [Fixed] Fixed a bug preventing the use of quarterly training data in rural models; this significantly improved the inference of activity on rural roads.
+
+
+### Known Issues
+## waste,biological-treatment-of-solid-waste-and-biogenic
+### Added
+- [Added] Data period projected forward. Start_date 2025-01-01 to end_date 2025-01-31.
+### Changed
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9.
+### Deprecated
+### Fixed
+### Known Issues
+## waste,domestic-wastewater-treatment-and-discharge
+### Added 
+- [Added] Data period extended for existing sources. Start_date 2024-12-01 to end_date 2025-01-01.
+### Changed
+### Deprecated
+### Fixed
+
+
+### Known Issues
+## waste,incineration-and-open-burning-of-waste
+### Added
+### Changed
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9.
+### Deprecated
+### Fixed
+### Known Issues
+## waste,industrial-wastewater-treatment-and-discharge
+### Added 
+- [Added] Data period extended for existing sources. Start_date 2024-12-01 to end_date 2025-01-01.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+## waste,solid-waste-disposal
+### Added
+- [Added] Data period projected forward from start_date 2025-01-01 to end_date 2025-01-31.
+### Changed
+### Deprecated
+### Fixed
+### Known Issues
+
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
