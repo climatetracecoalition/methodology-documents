@@ -1,0 +1,26 @@
+### Added
+
+- [Added] Data period extended for existing sources (through end_date 2025-01-31).
+
+### Changed
+
+- [Changed] Updated biomass unit information using updated Global Biomass Project Tracker from GEM (See updated methodology: https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Power/Power%20sector-Emissions%20from%20Electricity%20Generation.docx.pdf).
+
+- [Changed] Updated gas unit information using updated Global Gas Project Tracker from GEM.
+
+- [Changed] Updated new links to data-sources. Means improved estimates for a few plants.
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] CO2_emissions had a possibility of having a very small near-zero value (ex: -2e-16). This was fixed to be zeroed out.
+
+- [Fixed] Changed emissions factor uncertainty from t/gwh to t/mwh for all 4 gases we report on.
+
+- [Fixed] Minor bug fix to properly source raw data. Improved unit level information.
+
+### Known Issues
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+

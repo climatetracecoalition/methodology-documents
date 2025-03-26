@@ -1,0 +1,18 @@
+### Added
+
+- [Added] Data period extended. Start_date 2025-01-01 to end_date 2025-01-31.
+
+### Changed
+
+- [Changed] Updated model_number to _v20250228
+
+- [Changed] Improved filtering of sea ice for Sentinel-1 detections
+
+- [Changed] Improved matching of Sentinel-1 detections to AIS vessels
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+

@@ -1,0 +1,14 @@
+### Added
+
+[Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+
+### Changed
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+

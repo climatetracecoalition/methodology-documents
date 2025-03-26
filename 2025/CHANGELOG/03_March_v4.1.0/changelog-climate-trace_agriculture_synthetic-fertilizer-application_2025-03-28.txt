@@ -1,0 +1,18 @@
+### Added
+
+- [Added] Data period extended for existing sources. Start_date 2024-1-01 to end_date 2024-12-31.
+
+- [Added] Data period projected forward for existing sources. Start_date 2025-01-01 to end_date 2025-01-31.
+
+### Changed
+
+- [Changed] Updated emissions factors to account for the fraction of N2O emitted in a given month.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+

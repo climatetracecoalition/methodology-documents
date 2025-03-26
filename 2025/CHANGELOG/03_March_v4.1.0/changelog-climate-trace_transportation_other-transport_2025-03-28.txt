@@ -1,0 +1,12 @@
+### Added
+
+### Changed
+
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+

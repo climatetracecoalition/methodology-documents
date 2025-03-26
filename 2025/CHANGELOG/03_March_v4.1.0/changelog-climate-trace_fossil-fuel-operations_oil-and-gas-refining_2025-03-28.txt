@@ -1,0 +1,20 @@
+### Added
+
+- [Added] Data period extended for existing sources in North America and Europe. Start_date 2024-04-01 to end_date 2024-06-30.
+
+- [Added] Data period projected forward for existing sources in North America and Europe. Start_date 2024-07-01 to end_date 2025-01-31.
+
+- [Added] Data period projected forward for existing sources for the rest of the world. Start_date 2024-01-01 to end_date 2025-01-31.
+
+- [Added] Added coverage. 2 new assets added, referring to id #841 and #842.
+
+### Changed
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] For all other 3 (human health cancer - CTU), other 4 (human health non-cancer - CTU), and other 5 (ecotoxicity - CTU), there was an error on unit conversion. The data submitted this time, along with half-year estimates submitted at the end of January 2025, are correct. Essentially, if the periods were the same, the new submission of these three indicators should be 1000 times the values reported in the previous annual data submission in Aug 2024.
+
+### Known Issues
+

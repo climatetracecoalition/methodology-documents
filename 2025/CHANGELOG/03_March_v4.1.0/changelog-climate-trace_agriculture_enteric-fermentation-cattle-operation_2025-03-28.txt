@@ -1,0 +1,18 @@
+### Added
+
+- [Added] U.S. Department of Agriculture (USDA) cattle data to U.S. country-level emissions estimates. (See methodology: https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Agriculture/Agriculture%20sector-Country-level%20Enteric%20fermentation%20and%20Manure%20Management%20Emissions%20Estimates%20from%20Cattle%20Operations.docx.pdf)
+
+- [Added] Data period projected forward. Start_date 2024-01-01 to end_date 2025-01-31.
+
+### Changed
+
+- [Changed] Recalculated U.S.country-level enteric fermentation emissions estimates from cattle operations (see link above).
+
+### Deprecated
+
+- [Deprecated] Food and Agriculture Organization (FAO) cattle data from U.S. country-level emissions estimates and replaced with USDA data.
+
+### Fixed
+
+### Known Issues
+

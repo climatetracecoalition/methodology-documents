@@ -1,0 +1,16 @@
+### Added
+
+- [Added] Data period extended for existing sources in North America and Europe. Start_date 2024-04-01 to end_date 2024-06-30.
+
+- [Added] Data period projected forward for existing sources in North America and Europe. Start_date 2024-07-01 to end_date 2025-01-31.
+
+### Changed
+
+- [Changed] Updated metadata definition. [capacity adjusted to tons of ethylene/quarter (as defined by data period listed above)].
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+

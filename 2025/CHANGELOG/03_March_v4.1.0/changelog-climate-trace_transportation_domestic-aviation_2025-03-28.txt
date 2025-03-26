@@ -1,0 +1,16 @@
+### Added
+
+- [Added] Data period extended for existing sources. Start_date 2024-07-01 to end_date 2025-02-28.
+
+### Changed
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] Fixed location for source Lomlom Airport
+
+### Known Issues
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+

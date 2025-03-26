@@ -1,0 +1,22 @@
+### Added
+
+- [Added] New technology types (1,243 unique types) added.
+
+- [Added] Data period projected forward. Start_date 2025-01-01 to end_date 2025-01-31.
+
+### Changed
+
+- [Changed] Updated model for all data. Activity quantification method updated to take global average output per facility, rather than the median of country-level output per facility (Methodology update: https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Other%20Sectors/Other%20Sectors-Data%20informed%20disaggregation%20and%20Implicit%20Estimation%20Methodology.docx.pdf).
+
+- [Changed] Updated metadata. Capacity, activity and related emissions_factors values updated due to change in model (see previous bullet).
+
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9.
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] Duplicate assets were removed (total of 2,093).
+
+### Known Issues
+

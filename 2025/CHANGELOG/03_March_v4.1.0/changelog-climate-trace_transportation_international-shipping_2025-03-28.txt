@@ -1,0 +1,38 @@
+### Added
+
+- [Added] 918 new port locations have been labeled and added
+
+- [Added] Extended shapefiles for identifying holding areas
+
+- [Added] Added 3 oil tankers to be modelled by OM model
+
+- [Added] GFW data period extended. Start_date 2025-01-01 to end_date 2025-01-31.
+
+### Changed
+
+- [Changed] Updated GFW model_number to _v20241121
+
+- [Changed] Three new pollutants now provided by directly by GFW: PM2.5, PM10, and VOCs (more details here: https://emlab-ucsb.github.io/ocean-ghg/ais_model.html#sec-methods-additional-pollutants)
+
+- [Changed] GFW improved vessel classification algorithm for cargo vessels (more details here: https://emlab-ucsb.github.io/ocean-ghg/ais_model.html#vessel-characteristics)
+
+- [Changed] GFW improved emissions model for fishing vessels (more details here: https://emlab-ucsb.github.io/ocean-ghg/ais_model.html#main-engine-energy-use)
+
+- [Changed] GFW improved estimation of design speed (more details here: https://emlab-ucsb.github.io/ocean-ghg/ais_model.html#vessel-characteristics)
+
+- [Changed] GFW improved filtering of segment noise  (more details here: https://emlab-ucsb.github.io/ocean-ghg/ais_model.html#sec-methods-data-ais-messages)
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] OM corrected pollution incorrectly attributed to Abidiya, Egypt
+
+- [Fixed] Removal of the derelict port Honuapo, Hawaii, USA
+
+- [Fixed] Inconsistent port location in port files across international and domestic shipping sectors
+
+### Known Issues
+
+- [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
+

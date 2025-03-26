@@ -1,0 +1,22 @@
+### Added
+
+- [Added] Added coverage. 46 new sources added.
+
+- [Added] New technology types (75 unique types) added.
+
+- [Added] Data period projected forward. Start_date 2025-01-01 to end_date 2025-01-31.
+
+### Changed
+
+- [Changed] Updated model for all data. For countries with zero emissions, via gap-filling, but nonzero activity (i.e. production data from USGS), global emission factors, defined as the sum of emissions divided by the sum of lime produced for all countries with nonzero emissions and nonzero activity, were used to estimate emissions quantities, which are subsequently disaggregated to assets.
+
+- [Changed] Updated metadata. Capacity, activity and related emissions_factors values updated due to change in model (see previous bullet).
+
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+

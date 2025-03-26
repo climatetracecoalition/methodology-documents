@@ -1,0 +1,14 @@
+### Added
+
+- [Added] Data period projected forward. Start_date 2025-01-01 to end_date 2025-01-31.
+
+### Changed
+
+- [Changed] Country level data was updated to use Emissions Database for Global Atmospheric Research (EDGAR) V9.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+

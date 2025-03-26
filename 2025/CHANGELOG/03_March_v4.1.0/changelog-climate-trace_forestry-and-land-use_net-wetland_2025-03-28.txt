@@ -1,0 +1,12 @@
+### Added
+
+- [Added] Data period projected forward. Start_date 2025-01-01 to end_date 2025-01-31.
+
+### Changed
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
