@@ -16,3 +16,5 @@
 
 - [Known Issues] In some cases where emissions and emissions factor are imputed to be zero because activity has paused or stopped, but activity value is not commensurately decreased to zero. This will be fixed in future updates.
 
+- [Known Issues] An unusually large spike in N2O emissions occurs in 2024. This will be fixed in future releases.
+

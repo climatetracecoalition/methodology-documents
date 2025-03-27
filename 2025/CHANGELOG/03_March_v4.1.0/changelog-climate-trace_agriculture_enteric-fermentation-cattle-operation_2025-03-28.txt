@@ -16,3 +16,5 @@
 
 ### Known Issues
 
+- [Known Issues] An unusually large drop in enteric fermentation methane emissions occurs in 2024. This will be fixed in future releases.
+
