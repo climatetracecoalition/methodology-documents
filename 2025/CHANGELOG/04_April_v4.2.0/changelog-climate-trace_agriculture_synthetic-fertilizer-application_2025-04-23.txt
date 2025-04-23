@@ -1,0 +1,12 @@
+### Added
+
+### Changed
+
+- [Changed] Capacity now reported in '1000 ha' for all timestamps.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+

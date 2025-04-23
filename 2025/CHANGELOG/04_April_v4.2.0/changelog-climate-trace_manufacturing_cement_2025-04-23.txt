@@ -1,0 +1,18 @@
+### Added
+
+### Changed
+
+- [Changed] Updated metadata [capacity]: Annual capacity divided relatively, accounting for exact number of days in each month.
+
+- [Changed] Resubmitting historical data from Jan 2021 to Jan 2025 inclusive.
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] Removed/separated duplicated plants (concerning cases of multiple plants with the same point coordinate): removed TZCMT2404000001221 and TZCMT2404000003007; separated TZCMT2404000000267 and TZCMT2404000000271.
+
+- [Fixed] Corrected iso3_country for asset TZCMT2404000000051
+
+### Known Issues
+

@@ -1,0 +1,20 @@
+### Added
+
+- [Added] Data period extended for existing sources in Asia, the Middle East, Africa, Latin America, and CIS. Start_date 2024-04-01 to end_date 2024-06-30.
+
+- [Added] Added coverage. 19 new assets added, referring to ID #822 - #840. The number of assets increased from 707 to 728.
+
+### Changed
+
+- [Changed] Updated capacity for #55 Phillips 66 Rodeo Refinery and #262 North Atlantic Refining Come by Chance Refinery
+
+- [Changed] Corrected location (coordinates) for 7 refineries in South Korea: #497, #499, #500, #501, #785, #786, #787
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] Will cross-check utilization rates with annual throughput published in late June, so there might be updates for the quarterly emission factor estimates of certain regions.
+

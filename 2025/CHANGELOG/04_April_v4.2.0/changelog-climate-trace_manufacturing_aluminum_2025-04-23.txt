@@ -1,0 +1,12 @@
+### Added
+
+### Changed
+
+### Deprecated
+
+### Fixed
+
+-[Fixed] A bug was fixed that caused 2024 data to be too low in version V4.1.0.
+
+### Known Issues
+

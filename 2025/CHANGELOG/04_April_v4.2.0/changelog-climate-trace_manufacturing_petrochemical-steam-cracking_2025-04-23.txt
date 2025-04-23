@@ -1,0 +1,18 @@
+### Added
+
+- [Added] Data period extended for existing sources in Asia Pacific and Middle East. Start_date 2024-04-01 to end_date 2024-06-30.
+
+### Changed
+
+- [Changed] Corrected location data asset 3.
+
+- [Changed] Corrected location data asset 185.
+
+- [Changed] Missing data for petrochemical-steam-cracking assets are forward-filled rather than being assumed to be closed assets
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+

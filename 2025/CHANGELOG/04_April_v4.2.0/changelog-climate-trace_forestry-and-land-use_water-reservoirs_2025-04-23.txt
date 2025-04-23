@@ -1,0 +1,12 @@
+### Added
+
+### Changed
+
+- [Changed] Missing data for petrochemical-steam-cracking assets are forward-filled rather than being assumed to be closed assets
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+

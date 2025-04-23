@@ -1,0 +1,22 @@
+### Added
+
+- [Added] Increased France cattle operations (sources) coverage from 12,238 (v4.0) to 25,995 in April 2025 (v4.2).
+
+### Changed
+
+- [Changed] Updated France cattle operation assets metadata.
+
+- [Changed] Early France cattle operation version used Great Britain total head of cattle means to estimate emissions. This has changed to European Union total head of cattle means to estimate emissions.
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] Quality controlled and reduced false-positive cattle operations in a subset of regions in France.
+
+### Known Issues
+
+- [Known Issues] False-positive locations exist in this subsector and will be continually removed in future releases.
+
+- [Known Issues] USA Country-level emissions do not match the sum of USA asset level emissions. This will be fixed in a later release.
+
