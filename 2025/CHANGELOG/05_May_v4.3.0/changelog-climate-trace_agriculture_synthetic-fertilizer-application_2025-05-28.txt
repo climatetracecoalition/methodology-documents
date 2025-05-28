@@ -1,0 +1,18 @@
+### Added
+
+- Added data going back to 2015, which replaces backfilled values previously used for dates prior to 2021.
+
+### Changed
+
+- [Changed] Updated 2024 csv files
+
+### Changed
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] As referenced in "changed," we were able to correct the 2024 CSV file for country-scale emissions, which did not match the TIFF files.
+
+### Known Issues
+

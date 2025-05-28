@@ -1,0 +1,12 @@
+### Added
+
+- [Added] Data period extended for existing sources. Start_date 2025-02-01 to end_date 2025-03-01. Now all data runs from 2015-01-01 to 2025-03-01.
+
+### Fixed
+
+- [Fixed] Added back missing July 2024.
+
+### Known potential issues
+
+- [Known Issues] Asset in China (3199430_INDWW) significantly larger emissions. This will be fixed in future releases.
+
