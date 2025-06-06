@@ -1,0 +1,14 @@
+### Added
+
+### Changed
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] Previously, total USA country-level emissions (A) were less than the sum of the aggregated USA asset-level emissions (B) due to a bug. Meaning, “A” emissions were less than “B” emissions. This has been fixed where “A” emissions are larger and encompasses “B” emissions.
+
+### Known Issues
+
+- [Known Issues] 469 locations have duplicates. These are located in (iso3 country code): ARG, AUS, BRA, CHN, FRA, GBR, and USA. These duplicate locations will be removed in a future release.
+

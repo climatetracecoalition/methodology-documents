@@ -1,0 +1,16 @@
+### Added
+
+- [Added] Data period extended for existing sources. Start_date 2025-01-01 to end_date 2025-03-31.
+
+### Changed
+
+- [Changed] Updated climate data for calculating climate zones to latest version: CRU TS v.4.09 (https://crudata.uea.ac.uk/cru/data/hrg/index.htm#current)
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] For certain reservoirs, especially during months where a lack of quality satellite imagery (due to clouds) inhibits accurate surface area estimates, emissions estimates are either anomalously small or zero, relative to previous months. This is technically incorrect and will be mitigated in the future.
+

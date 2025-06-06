@@ -1,0 +1,16 @@
+### Added
+
+- [Added] Data period extended for existing assets in North America and Europe. Start_date 2024-07-01 to end_date 2024-09-30.
+
+### Changed
+
+- [Changed] #465 ENI Livorno Oil Refinery stopped crude processing on 01/30/2024, in progress to convert to a biorefinery; changed the capacity, capacity factor, and all modeled results for Q2 2024 results.
+
+- [Changed] Updated refinery type for a couple of US refineries, #4, #5, #18, #63, #64, #68, #98, which has a huge impact on all modeled results.
+
+### Deprecated
+
+### Fixed
+
+- [fixed] Updated #228 all emissions results as we missed modeling that one when turning in the Q2 2024 deliverables.
+

@@ -1,0 +1,22 @@
+### Added
+
+- [Added] Data period extended for existing sources. Start_date 2025-03-01 to end_date 2025-03-31.
+
+### Changed
+
+- [Changed] - All pollutant emissions columns (i.e., *_emissions) are now in units of metric tonnes.
+
+- [Changed] - All pollutant emissions factor columns (i.e., *_emissions_factor) are now in units of metric tonnes per unit activity (i.e., nautical mile).
+
+- [Changed] - Ports that have previously been reported on but do not have any emissions for the current month are now included with 0 values for all emissions and emissions factors.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] Invalid transmissions can cause interpolation of trips over extended data gaps which may result in large erroneous emissions spikes at a port at the time when the data gap ends.
+
+- [Known Issues] Duplicated ports identified : Furna vs Fuma.
+

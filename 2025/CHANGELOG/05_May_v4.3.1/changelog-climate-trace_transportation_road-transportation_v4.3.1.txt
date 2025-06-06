@@ -1,0 +1,22 @@
+### Added
+
+- [Added] Data period extended for existing sources. New end_date 2025-03-31.
+
+- [Added] Full uncertainty calculations for GADM 1 and GADM 2 assets.
+
+### Changed
+
+- [Changed] Updated data due to interpolation from 2024-07-01 to 2025-02-28.
+
+- [Changed] Uncertainty calculations have changed from partial data set.
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] Corrected city aggregation data to match data updates due to interpolation from 2024-07-01 to 2025-02-28.
+
+### Known issues
+
+- [Known Issues] Missing fields in uncertainty calculations due to insufficient statistics of some sparse road assets.
+

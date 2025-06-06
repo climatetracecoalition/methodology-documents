@@ -1,0 +1,18 @@
+### Added
+
+- [Added] Data period extended for existing sources. Start_date 2015-01-01 to end_date 2025-03-31.
+
+- [Added] Added coverage. 15 airports were added.
+
+### Changed
+
+- [Changed] Updated historical data from 2015-01-01 to 2022-12-31 from annual to monthly temporal granularity.
+
+- [Changed] Updated fuel burn estimates for some aircraft types. Aircraft types which depend on ICAO Fuel consumption tables updated to use ICAO Carbon Emissions Calculator Methodology v13.1.
+
+- [Changed] Updated metadata [confidence, uncertainty, ownership]
+
+### Fixed
+
+- [Fixed] Updated ownership data fixes issue with airline operation percentages at airports.
+
