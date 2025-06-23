@@ -1,0 +1,12 @@
+### Added
+
+- [Added] 2024 asset level emissions data were submitted for Bhutan and the Islamic Republic of Iran.
+
+### Changed
+
+- [Changed] 2024 blank values to zeros for countries with no rice production reported to FAO.
+
+### Deprecated
+
+### Removed
+

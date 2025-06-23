@@ -1,0 +1,12 @@
+### Added
+
+- [Added] Added Manure emission (direct and indirect) data for 25 crop groups (including a total of 136 crops) for 126 countries. This data includes all gridded and country-scale, both annual and monthly time-scales from 2015 to 2024
+
+### Changed
+
+- [Changed] Found a bug in the activity data. Fixed it for all crops.
+
+### Deprecated
+
+### Removed
+

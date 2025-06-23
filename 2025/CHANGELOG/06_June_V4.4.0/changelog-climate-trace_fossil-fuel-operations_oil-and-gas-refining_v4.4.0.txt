@@ -1,0 +1,18 @@
+### Added
+
+- [Added] Data period extended for existing assets in the Middle East and APAC. Start_date 2024-07-01 to end_date 2024-09-30.
+
+### Changed
+
+- [Changed] Updated #822 capacity as this greenfield new refinery inaugurated operation on 9/20/2024.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] for #841 and #842, two refineries in ALB. Will model historical results before Q2 2024 by August.
+
+- [Known Issues] tweaking all Chinese refineries' capacity factors, will be applying new data sources and cross-checking.
+

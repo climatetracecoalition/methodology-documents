@@ -1,0 +1,10 @@
+### Added
+
+- [Added] These data represent our first submission of emissions data capturing the impact of the decomposition of crop residues (direct and indirect) for 25 crop groups (including a total of 136 crops) for 126 countries. These data include both annual and monthly time-scales from 2015 to 2024.
+
+### Changed
+
+### Deprecated
+
+### Removed
+

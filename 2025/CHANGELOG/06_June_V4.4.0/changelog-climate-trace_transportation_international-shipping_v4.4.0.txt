@@ -1,0 +1,18 @@
+### Added
+
+- [Added] Data period extended for existing sources. Start_date 2025-04-01 to end_date 2025-04-30.
+
+### Changed
+
+- [Changed] - Rounding to 7 decimal places has been removed from all pollutant emissions columns and emissions factor columns.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] Invalid transmissions can cause interpolation of trips over extended data gaps which may result in large erroneous emissions spikes at a port at the time when the data gap ends.
+
+- [Known Issues] Duplicated ports identified : Furna vs Fuma.
+

@@ -1,0 +1,14 @@
+### Added
+
+- [Added] Data period extended for existing sources. Start_date 2025-01-01 to end_date 2025-04-30.
+
+### Changed
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] For certain reservoirs, especially during months where a lack of quality satellite imagery (due to clouds) inhibits accurate surface area estimates. Emissions estimates are either anomalously small or zero, relative to previous months. This is technically incorrect and will be mitigated in the future.
+

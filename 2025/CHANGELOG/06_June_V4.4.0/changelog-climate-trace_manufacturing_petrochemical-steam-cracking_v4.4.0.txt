@@ -1,0 +1,12 @@
+### Added
+
+- [Added] Data period extended for existing sources in Asia Pacific and Middle East. Start_date 2024-07-01 to end_date 2024-09-30.
+
+### Changed
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+

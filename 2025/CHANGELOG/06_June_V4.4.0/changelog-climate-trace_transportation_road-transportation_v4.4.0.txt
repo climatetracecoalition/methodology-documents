@@ -1,0 +1,38 @@
+### Added
+
+- [Added] Data period extended for existing sources. New end_date 2025-04-30.
+
+- [Added] Relative to v4.0, full uncertainty calculations for GADM 1 and GADM 2 assets.
+
+### Changed
+
+- [Changed] Updated data due to interpolation from 2024-07-01 onwards.
+
+- [Changed] Relative to v4.0, uncertainty calculations have changed from partial to full data set.
+
+- [Changed] Relative to v4.0, updated emissions and activity data based on bug fixes for data from 2021-2024.
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] Relative to v4.0, fixed bug preventing all road indices from being included when combining multiple models; this updated data from 2021 to January 2025. This can cause a noticeable difference in regions with significant clouds, e.g. the tropics.
+
+- [Fixed] Relative to v4.0, fixed a bug preventing the use of full quarterly training data in rural models; this significantly improved the inference of activity on rural roads.
+
+- [Fixed] Fixed 'string_type' error for city-level emissions factors location column.
+
+- [Fixed] Added missing ATA data to country-level emissions factors table - entries set to NaN.
+
+- [Fixed] Changed XKO to XKX in city-level emissions factors table to match World Bank codes. XNC is changed to CYP.
+
+- [Fixed] Removed missing asset_identifier values in the confidence table.
+
+- [Fixed] Removed null asset rows for GBR, with GADM id of 'NA'.
+
+- [Fixed] Removed columns 'Unnamed: 0', 'iso3_country', 'location', 'type', 'other1-3' from the uncertainty table.
+
+### Known Issues
+
+- [Known Issues] Have not updated to the latest ClimateTRACE patch of GADM data (v1.1.2).
+

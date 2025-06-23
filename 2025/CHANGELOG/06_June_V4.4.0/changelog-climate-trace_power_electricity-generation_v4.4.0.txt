@@ -1,0 +1,16 @@
+### Added
+
+- [Added] Data period extended for existing sources. Start_date 2019-01-01 to end_date 2025-04-30.
+
+### Changed
+
+- [Changed] We now report zeros for non-operational plants (i.e., before the start of operations or after retirement).
+
+- [Changed] Bug fix that minimally affects the reported uncertainty.
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] For non-operational plants the data is reported as zero values for capacity, capacity factor, activity, emissions intensity, and emissions. The related uncertainties are also reported as zero. This is not strictly correct since there can be uncertainty in the operating status in a given month. Future work will better quantify the uncertainty when the plant is reported as non-operational.
+
