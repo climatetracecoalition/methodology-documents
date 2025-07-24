@@ -1,0 +1,16 @@
+### Added
+
+- [Added] Data period extended for existing sources. New end_date 2025-05-31.
+
+### Changed
+
+- [Changed] Updated data due to interpolation from 2024-07-01 on.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] Have not updated to the latest Climate TRACE patch of GADM data (v1.1.2).
+

@@ -1,0 +1,20 @@
+### Added
+
+- [Added] Added coverage. New assets included, identifiable by their TZCMT2505 ID prefix.
+
+- [Added] New fields indicating cement type (cement_type) and any emissions reduction technologies (ers_technology) employed at the asset.
+
+### Changed
+
+- [Changed] Updated metadata [ownership, capacity, coordinates, emissions_factor]: our primary asset metadata source is no longer Spatial Finance Initiative but Global Energy Monitor's new Global Cement and Concrete Tracker. See methodology: https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Manufacturing%20and%20Industrial%20Processes/Manufacturing%20and%20Industrial%20Processes%20sector-Cement%20Manufacturing%20Emissions.docx.pdf
+
+- [Changed] Due to metadata source change, the emissions for this release will overall increase compared to last release.
+
+- [Changed] Updated historical data from 2021-01-01 to 2025-04-30.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+

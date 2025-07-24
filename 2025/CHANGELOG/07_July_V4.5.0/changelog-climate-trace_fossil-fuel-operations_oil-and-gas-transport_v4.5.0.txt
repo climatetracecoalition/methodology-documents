@@ -1,0 +1,26 @@
+### Added
+
+- [Added] Data period calculated for all sources. Start_date 2015-01-01 to end_date 2025-06-01.
+
+- [Added] Added coverage. Belize data added.
+
+### Changed
+
+- [Changed] Updated model for all data. OPGEE3c revamp, see [https://github.com/RMI/ogsi_OPGEE_excel/tree/main]
+
+- [Changed] Input data source switched (greatly impacting model outputs).
+
+- [Changed] Updated metadata confidence and emissions to reflect model changes and new post-processing.
+
+- [Changed] Renamed and re-identified assets to reflect new aggregation scheme.
+
+### Deprecated
+
+- [Deprecated] Removal of UNK (unknown) country. Assets that fall in disputed territories have been assigned evenly between countries.
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] electrical grid mix accounting is currently missing from the model.
+

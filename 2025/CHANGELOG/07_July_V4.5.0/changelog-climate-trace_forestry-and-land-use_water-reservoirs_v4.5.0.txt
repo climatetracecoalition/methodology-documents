@@ -1,0 +1,18 @@
+### Added
+
+- [Added] Data period extended for existing sources. Start_date 2025-01-01 to end_date 2025-05-31.
+
+### Changed
+
+- [Changed] Reservoir surface areas were previously calculated using Normalized Difference Water Index (NDWI) derived from Landsat or Sentinel-2's green and near-infrared bands. For this model version, and going forward, this sector is leveraging Sentinel-2's Scene Classification Layer (SCL), produced by the European Space Agency (ESA). See methodology: https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Forestry%20and%20Land%20Use%20Change/Forestry%20and%20Land%20Use%20Change%20sector-Emissions%20from%20Reservoirs.docx.pdf
+
+- [Changed] Due to the switch to Sentinel-2's SCL, this release’s emissions will be different compared to last release.
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] The Sentinel-2’s SCL significantly improved surface area estimates and reduced uncertainty caused by previously used Sentinel-2 and Landsat NDWI estimates.
+
+### Known Issues
+

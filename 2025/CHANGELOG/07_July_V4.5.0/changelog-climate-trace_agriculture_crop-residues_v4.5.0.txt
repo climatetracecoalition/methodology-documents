@@ -1,0 +1,12 @@
+### Added
+
+- Added monthly country-level data from 2015-2024 for crop residue for 251 countries. See methodology: https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Agriculture/Agriculture%20sector-Emissions%20from%20Synthetic%20Fertilizer%2C%20Crop%20Residue%2C%20and%20Manure%20Application%20Methodology.pdf
+
+### Changed
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+

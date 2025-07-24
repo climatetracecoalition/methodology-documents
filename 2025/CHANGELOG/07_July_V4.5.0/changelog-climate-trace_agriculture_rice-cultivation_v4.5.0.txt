@@ -1,0 +1,14 @@
+### Added
+
+- [Added] 2024 asset level emissions data for the following countries (iso country codes): BRA, ECU, EGY, ESP, ETH, GUY, ITA, MDG, MEX, RUS, SUR, TUR, TZA, URY, and USA.
+
+### Changed
+
+- [Changed] Fixed column mismatches for IRN and BTN from previous submission.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+

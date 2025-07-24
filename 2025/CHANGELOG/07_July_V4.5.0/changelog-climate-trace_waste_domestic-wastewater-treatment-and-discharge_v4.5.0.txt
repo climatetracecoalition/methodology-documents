@@ -1,0 +1,14 @@
+### Added
+
+- [Added] Data period extended for existing sources. Start_date 2025-05-01 to end_date 2025-05-31. Now all data runs from 2015-01-01 to 2025-05-31.
+
+### Changed
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] Incorrect ISO3 values for a handful of assets at borders.
+
+### Known Issues
+
