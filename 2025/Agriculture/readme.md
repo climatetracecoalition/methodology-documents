@@ -1,4 +1,7 @@
-## Agriculture 2025 (v4.1) subsector notes (from v4.0 release)
+## Agriculture August 2025 (v4.5.0) Sector Notes
+- The agriculture sector *Estimation of Direct Nitrous Oxide (N2O) Emissions from Synthetic Fertilizers* methodology has been changed to include more agriculture sectors that emit N2O emissions, renamed: *Emissions from Synthetic Fertilizer, Crop Residue, and Manure Application* methhodology. Each of these subsectors will have monthly updates going forward. See changelogs for more information.
+
+## Agriculture 2025 (v4.1) Sector Notes (from v4.0 release)
 - The *Enteric Fermentation and Manure Management Emissions from Cattle Operations* 2024 methodology in this folder
 was previously known as *Enteric Fermentation and Manure Management Emissions from Individual Cattle Feedlots and Dairies* in 2023.
 Climate TRACE updated this sector's definition from feedlots and dairies to *“cattle operations”* to reflect the broader coverage this sector represents, including, but limited to: smaller cattle farms, animal feeding operations (AFOs), feedlots, dairies, and cow-calf-operations.
