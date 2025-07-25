@@ -8,7 +8,7 @@
 
 - [Changed] Updated model for all data. OPGEE3c revamp, see [https://github.com/RMI/ogsi_OPGEE_excel/tree/main]
 
-- [Changed] Input data source switched (greatly impacting model outputs).
+- [Changed] Input data sources have changed and are fully employed in this release, which has changed model outputs and estimates. See methodology sections 3.1 to 3.3 for more information: https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Fossil%20Fuel%20Operations/Fossil%20Fuel%20Operations%20Sector-Production%20and%20Transport%20Emissions.docx.pdf
 
 - [Changed] Updated metadata confidence and emissions to reflect model changes and new post-processing.
 
