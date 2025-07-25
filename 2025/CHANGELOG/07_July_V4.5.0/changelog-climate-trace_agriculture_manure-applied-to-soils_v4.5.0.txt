@@ -2,7 +2,7 @@
 
 ### Changed
 
-- [Changed] This sector approach to estimate emissions has been added to “Emissions from Synthetic Fertilizer, Crop Residue, and Manure Application” Methodology. However, for the 4.5.0 release, the approach described in the methodology and resulting emissions will be released in the future. Refer to the changelog for “ClimateTRACE,multiple-sectors” in the changelog pdf for a description on this month’s release for manure-applied-to-soils emissions.
+- [Changed] This sector approach to estimate emissions has been added to “Emissions from Synthetic Fertilizer, Crop Residue, and Manure Application” Methodology. However, for the 4.5.0 release, the approach described in the methodology and resulting emissions will be a future release. Refer to the changelog for “ClimateTRACE,multiple-sectors” in the 4.5.0_combined-changelog-climate-trace.pdf for a description on this month’s release for manure-applied-to-soils emissions.
 
 ### Deprecated
 
