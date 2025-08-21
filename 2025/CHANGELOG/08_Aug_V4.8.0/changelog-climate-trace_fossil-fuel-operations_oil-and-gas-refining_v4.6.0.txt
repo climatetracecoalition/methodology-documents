@@ -1,0 +1,16 @@
+### Added
+
+- [Added] Data period extended for existing assets in North America and Europe. Start_date 2024-10-01 to end_date 2024-12-31.
+
+### Changed
+
+- [Changed] Updated #789 all Q3 2024 results, including asset, country, and uncertainty, as the sole refinery in Serbia has more granular capacity factor data available now.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] Current estimates of capacity factors for Chinese refineries will be improved in the future releases as more granular and accurate data sources have become available.
+

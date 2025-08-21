@@ -1,0 +1,14 @@
+### Added
+
+### Changed
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] Invalid transmissions can cause interpolation of trips over extended data gaps which may result in large erroneous emissions spikes at a port at the time when the data gap ends.
+
+- [Known Issues] Duplicated ports identified : Furna vs Fuma.
+
