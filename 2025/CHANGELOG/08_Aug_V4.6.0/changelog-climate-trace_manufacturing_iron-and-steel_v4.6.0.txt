@@ -1,0 +1,22 @@
+### Added
+
+- [Added] Added production and CO2 emissions estimates for steel assets for May 2025.
+
+- [Added] Included the percentage of scrap input for EAF and DRI-EAF technologies (noted in the “other7” column in asset downloads).
+
+- [Added] Integrated the new GEM steel asset tracker, increasing the number of monitored assets from 832 to 888.
+
+### Changed
+
+- [Changed] Improved the estimation of direct CO2 emissions for EAF and DRI-EAF routes by incorporating scrap and feedstock percentage data. This adjustment led to a slight increase in estimated emissions for those technologies. See https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Manufacturing%20and%20Industrial%20Processes/Manufacturing%20and%20Industrial%20Processes%20sector-Iron%20%26%20Steel%20Manufacturing%20Emissions.docx.pdf
+
+- [Changed] Expanded the number of satellite-monitored assets from 334 to 362. The number of BF/BOF was increased from 262 to 313.
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] Corrected an issue in February 2025 where a sudden increase in asset count caused an artificial spike in the average emissions factor. The updated methodology now accounts for the corrected number of assets.
+
+### Known Issues
+

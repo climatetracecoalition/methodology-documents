@@ -1,0 +1,12 @@
+### Added
+
+- [Added] 2024 asset level emissions data for Peru.
+
+- [Added] updates to the emissions factors for new countries.
+
+### Changed
+
+### Deprecated
+
+### Fixed
+

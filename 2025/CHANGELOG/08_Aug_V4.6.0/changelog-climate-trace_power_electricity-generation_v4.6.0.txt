@@ -1,0 +1,18 @@
+### Added
+
+- [Added] Data period extended for existing sources. Asset-level start_date 2019-01-01 to end_date 2025-06-30; country-level start_date 2015-01-01 to end_date 2025-06-30.
+
+### Changed
+
+- [Changed] Fixed a few plant/unit level information. These can reflect changes in our estimates.
+
+- [Changed] Database and underlying improvements for source generation data. See methodology: https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Power/Power%20sector-Emissions%20from%20Electricity%20Generation.docx.pdf
+
+- [Changed] For the subset of plants in USA, BRA, ESP, NLD, POL, BEL, FIN, AUT, ITA, DEU that pass a set of validation checks, we report the activity based on reported generation data (CAMD, ENTSO-E, and ONS.
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] For non-operational plants the data is reported as zero values for capacity, capacity factor, activity, emissions intensity, and emissions. The related uncertainties are also reported as zero. This is not strictly correct since there can be uncertainty in the operating status in a given month. Future work will better quantify the uncertainty when the plant is reported as non-operational.
+
