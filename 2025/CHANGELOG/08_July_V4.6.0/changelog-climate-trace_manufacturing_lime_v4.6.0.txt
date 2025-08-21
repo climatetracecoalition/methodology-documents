@@ -1,0 +1,18 @@
+### Added
+
+- [Added] Updated content in “Data informed disaggregation and Implicit Estimation in Other Sectors” Methodology, see: https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Other%20Sectors/Other%20Sectors-Data%20informed%20disaggregation%20and%20Implicit%20Estimation%20in%20Other%20Sectors.pdf
+
+### Changed
+
+- [Changed] Updated CEDS to version v_2025_03_18.
+
+- [Changed] Removed forward projection of external inventory data. The final reported year is now the final year of CEDS (2023).
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] Fixed bug that inflated asset-level activity and deflated emissions factors. Summing asset-level activity is now less than or equal to country total activity.
+
+### Known Issues
+

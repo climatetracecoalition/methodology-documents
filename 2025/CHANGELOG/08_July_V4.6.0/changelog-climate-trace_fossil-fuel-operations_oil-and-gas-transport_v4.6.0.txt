@@ -1,0 +1,16 @@
+### Added
+
+- [Added] Data period calculated for all sources to the end of July 2025.
+
+- [Added] ZNC country code for country file.
+
+### Changed
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] Electrical grid mix accounting is currently missing from model.
+
