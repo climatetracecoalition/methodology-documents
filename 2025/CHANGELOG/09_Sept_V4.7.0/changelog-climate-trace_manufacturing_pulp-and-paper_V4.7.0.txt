@@ -1,0 +1,26 @@
+### Added
+
+- [Added] Added coverage. Increased number of assets by 93 (36%) with total capacity coverage increased by 58%.
+
+- [Added] New technology type added: Pulp from fibres other than wood.
+
+### Changed
+
+- [Changed] Updated model for all data. Regional aggregates replaced by assets, with calculations rerun. Start_date 2021-01-01 to end_date 2024-12-31.
+
+- [Changed] Updated capacity_factor metadata: calculated using the most recent Food and Agriculture Organization (FAO) national capacities and production data. Applied per country where available, otherwise global average applied (pulp assets tend to have a high capacity utilization with FAO global average sitting around 0.93 (compared to more conservative previous estimate of 0.64).
+
+- [Changed] Updated confidence and uncertainty metadata: Improved estimation based on source of information of capacities and the methodology used to estimate the asset production.
+
+- [Changed] Updated ownership and capacity metadata: Now sourced from Spatial Finance Initiative, with data gaps supplemented by a purpose-built large language model (LLM. QC'd and appropriate adjustments made based on FAO national data.
+
+- [Changed] Updated activity metadata: Owing to increased capacity and capacity factors, reported activity has significantly increased (by 115%).
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] Asset aggregates do not in all cases equal reported country-level emissions due to incomplete asset coverage.
+

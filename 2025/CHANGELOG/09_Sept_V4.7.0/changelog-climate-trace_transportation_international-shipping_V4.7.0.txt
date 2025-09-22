@@ -1,0 +1,54 @@
+### Added
+
+- [Added] OceanMind (OM) added a combined 1248 new or updated ports
+
+### Changed
+
+- [Changed] OM emissions model updated to version ‘om.310725’, changes included below.
+
+- [Changed] OM emissions model improved by calculating the required power for a vessel to carry out activities, including acceleration and deceleration.
+
+- [Changed] OM emissions model now uses required power along with fuel calorific content to calculate emissions specific to the predicted fuel type being used by a vessel.
+
+- [Changed] OM port attribution methodology has been improved using clustering algorithms to detect true berthing events.
+
+- [Changed] OM port attribution algorithm added functionality to identify loitering behaviour before and after port stays.
+
+- [Changed] GFW model updated to version ‘_v20250701’.
+
+- [Changed] GFW updated model values for the entire time series of data (2015-01-01 through 2025-06-30). The new model leverages extensive improvements to our vessel characteristics of low-information vessels, as well as improves our modeling of low-load activity, as well as the IMO low sulphur fuel requirement that was implemented in 2020.
+
+- [Changed] GFW expanded vessel coverage to include more 'low-information' vessels.
+
+- [Changed] GFW improved the emissions model by incorporating emissions correction factors for low main engine loads.
+
+- [Changed] GFW improved the emissions model for SOX and PM by accounting for the fact that starting on January 1, 2020, the IMO required lower sulfur content fuel.
+
+- [Changed] GFW improved vessel characteristic model for inferring the main engine power, length, and gross tonnage of low-information vessels.
+
+- [Changed] GFW improved vessel characteristic model for inferring the vessel class of low-information vessels.
+
+- [Changed] GFW improved vessel characteristic model for inferring the subclass of low-information cargo vessels.
+
+- [Changed] GFW developed a new vessel characteristic model for inferring the subclass of low-information tanker vessels (i.e., chemical or oil, liquefied  gas, or other liquid).
+
+- [Changed] GFW developed a new vessel characteristic model for inferring the maximum speed design characteristic of low-information vessels.
+
+### Deprecated
+
+- [Deprecated] OM a combined 479 defunct or incorrect ports.
+
+- [Deprecated] OM removed 34 vessels which did not have sufficient information available to run through the new methodology.
+
+### Fixed
+
+- [Fixed] OM Duplicated ports removed: Furna vs Fuma.
+
+- [Fixed] OM Various port shapes having incorrect ISO3 codes, or incorrect locations associated.
+
+### Known Issues
+
+- [Known Issues] OM Invalid transmissions can cause interpolation of trips over extended data gaps which may result in large erroneous emissions spikes at a port at the time when the data gap ends.
+
+- [Known Issues] OM Attribution of emissions to ports as 50/50 on trips with significant loitering can cause emissions reductions assigned to a port that is greater than the emissions assigned to that port.
+

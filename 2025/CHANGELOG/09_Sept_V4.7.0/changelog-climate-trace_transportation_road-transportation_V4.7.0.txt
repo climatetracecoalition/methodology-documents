@@ -1,0 +1,18 @@
+### Added
+
+- [Added] Data period extended for existing sources. New end_date 2025-07-31.
+
+### Changed
+
+- [Changed] Updated data due to revised emission factors from 2023-01-01 on.
+
+- [Changed] Updated uncertainties to reflect updated data.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] Have not updated to the latest ClimateTRACE patch of GADM data (v1.1.2).
+

@@ -1,0 +1,12 @@
+### Added
+
+### Changed
+
+- [Changed] Added check for previously unique assets in identically the same location (within 0.0001 degrees latitude/longitude) in the European Pollutant Release and Transfer Register (E-PRTR) dataset, and combined them into one asset.
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] Eliminated [33] duplicates: asset_identifier = ['eprtrFR.EEA.1084.FACILITY', 'eprtrFR.EEA.5984.FACILITY', 'eprtrAT.EEA.5958.FACILITY', 'eprtrFR.CAED.3453.FACILITY', 'eprtrFR.CAED.9049.FACILITY', 'eprtrDE.EEA.43122.FACILITY', 'eprtrDE.EEA.45939.FACILITY', 'eprtrDE.EEA.46650.FACILITY', 'eprtrDE.EEA.189451.FACILITY', 'eprtrIT.EEA.325.FACILITY', 'eprtrIT.EEA.339.FACILITY', 'eprtrIT.EEA.117634.FACILITY', 'eprtrES.CAED.001020000.FACILITY', 'eprtrGB.EEA.125545.FACILITY', 'eprtrGB.EEA.31875.FACILITY', 'eprtrGB.EEA.31923.FACILITY', 'eprtrGB.EEA.31983.FACILITY', 'eprtrGB.EEA.32000.FACILITY', 'eprtrGB.EEA.32044.FACILITY', 'eprtrGB.EEA.32091.FACILITY', 'eprtrGB.EEA.88364.FACILITY', 'eprtrGB.EEA.190310.FACILITY', 'eprtrGB.EEA.190318.FACILITY', 'eprtrGB.EEA.190429.FACILITY', 'eprtrGB.EEA.190463.FACILITY', 'eprtrGB.EEA.190677.FACILITY', 'eprtrGB.EEA.190737.FACILITY', 'eprtrGB.EEA.190766.FACILITY', 'eprtrGB.EEA.190775.FACILITY', 'eprtrGB.EEA.190813.FACILITY', 'eprtrGB.EEA.190953.FACILITY', 'eprtrGB.EEA.191017.FACILITY', 'eprtrGB.EEA.191199.FACILITY']
+

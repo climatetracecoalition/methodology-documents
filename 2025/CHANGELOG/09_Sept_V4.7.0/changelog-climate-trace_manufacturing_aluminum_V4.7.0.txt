@@ -1,0 +1,18 @@
+### Added
+
+- [Added] Added coverage. Incorporated 39 assets for alumina (previously aggregated by region), with total capacity coverage increased by 18%.
+
+### Changed
+
+- [Changed] Updated model for all data, with values recalculated. Start_date 2021-01-01 to end_date 2025-06-30. A regional utilization factor is used to calculate production and capacity factor for assets (where the data exists); remaining estimated capacity and production is aggregated by region.
+
+- [Changed] Updated capacity and ownership metadata: Refreshed the source of data for smelters assets. Previously static; now updated on a year-by-year basis to track retirements and openings. Data for refineries assets have been added using a new large language model (LLM) to enable more granular reporting.
+
+- [Changed] Updated uncertainty and confidence metadata: Improved estimation based on source of information of capacities and the methodology used to estimate the asset production.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+

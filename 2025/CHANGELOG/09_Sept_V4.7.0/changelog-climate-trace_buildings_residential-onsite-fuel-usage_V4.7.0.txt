@@ -1,0 +1,26 @@
+### Added
+
+- [Added] Added biomass-specific raster emissions estimates for CO2bio, N2Obio, and CH4bio. CO2bio, N2Obio, and CH4bio estimates are provided and can be used to determine the amount of biomass contribution to GHGs relative to  nonbiomass sources.
+
+### Changed
+
+- [Changed] Updated to monthly temporal disaggregation for CO2, N2O, CH4, CO2bio, N2Obio, CH4bio, NMVOC, CO, NOx, SO2, PM2.5, and PM10 using monthly temperature data from ERA5.
+
+- [Changed] Updated model for all data. [Area, capacity factor, activity, and emissions factor methods are all updated.]
+
+- [Changed] Updated all monthly estimates to encompass January 2015 through February 2025 (inclusive).
+
+- [Changed] Updated metadata units for emissions data to be tonnes for all emissions.
+
+- [Changed] Updated metadata units for activity data to be megajoules (MJ).
+
+- [Changed] Updated metadata units for emissions factor data to be MJ/tonne for all emissions factors.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] Some other4-9 column values for biomass CO2, CH4, and N2O (CO2bio, N2Obio, CH4bio)emissions and emissions factors were omitted due to an error in the raster aggregation process and will be included in the next release.
+

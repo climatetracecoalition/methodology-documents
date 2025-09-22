@@ -1,0 +1,14 @@
+### Added
+
+- [Added] Monthly 2024 asset level and country level data for Southeast Asian countries.
+
+### Changed
+
+- [Changed] The CH4 emissions factor for alternate wetting and drying solutions to reflect induced N2O emissions from the proposed solution. The gross CH4 reductions were found to be 52% but incorporating the N2O emissions change brought that number to 39%. While these N2O emissions mostly occurred from changes in crop residue activity, the N2O impacts also occurred within other untracked microbial activities, thus it was simpler to reduce the methane efficacy of alternate wetting and drying.
+
+### Deprecated
+
+### Removed
+
+- Removed 2024 yearly data for Southeast Asia assets and countries in favor of monthly data.
+

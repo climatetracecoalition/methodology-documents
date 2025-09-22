@@ -1,0 +1,12 @@
+### Added
+
+### Changed
+
+- [Changed] Added check for previously unique assets in identically the same location (within 0.0001 degrees latitude/longitude) in the EPRTR dataset, and combined them into one asset.
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] Eliminated [44] duplicates: asset_identifier = ['eprtrFR.EEA.1083.FACILITY',  'eprtrFR.EEA.19004.FACILITY', 'eprtrFR.EEA.19007.FACILITY',  'eprtrFR.EEA.4447.FACILITY', 'eprtrFR.EEA.4491.FACILITY', 	 'eprtrFR.EEA.786.FACILITY', 'eprtrAT.EEA.229218.FACILITY',	 'eprtrFR.EEA.966.FACILITY', 'eprtrAT.EEA.284923.FACILITY', 'eprtrFR.EEA.104400.FACILITY', 'eprtrFR.EEA.11079.FACILITY',  'eprtrFR.EEA.11080.FACILITY', 'eprtrFR.EEA.4812.FACILITY', 	 'eprtrFR.EEA.69353.FACILITY', 'eprtrFR.EEA.69572.FACILITY',  'eprtrFR.EEA.104727.FACILITY', 'eprtrFR.EEA.17565.FACILITY',  'eprtrFR.EEA.18651.FACILITY', 'eprtrFR.CAED.14501.FACILITY', 'eprtrFR.EEA.158643.FACILITY', 'eprtrFR.EEA.18598.FACILITY',  'eprtrFR.CAED.14427.FACILITY', 'eprtrFR.CAED.14802.FACILITY', 'eprtrFR.EEA.158692.FACILITY', 'eprtrFR.EEA.175689.FACILITY', 'eprtrFR.CAED.4283.FACILITY', 'eprtrFR.CAED.9983.FACILITY',  'eprtrFR.CAED.2488.FACILITY', 'eprtrFR.EEA.293953.FACILITY', 'eprtrFR.EEA.4061.FACILITY', 'eprtrDE.EEA.46341.FACILITY',  'eprtrDE.EEA.46820.FACILITY', 'eprtrIT.EEA.120.FACILITY',    'eprtrIT.EEA.5069.FACILITY', 'eprtrIT.EEA.26817.FACILITY',  'eprtrPT.EEA.5639.FACILITY', 'eprtrES.EEA.84969.FACILITY',  'eprtrES.EEA.85117.FACILITY', 'eprtrES.EEA.85307.FACILITY',  'eprtrGB.EEA.31327.FACILITY', 'eprtrGB.EEA.32498.FACILITY',  'eprtrGB.EEA.130179.FACILITY', 'eprtrGB.EEA.191086.FACILITY', 'eprtrCZ.EEA.66167.FACILITY', 'eprtrDK.EEA.7126.FACILITY',   'eprtrFR.CAED.3859.FACILITY']
+

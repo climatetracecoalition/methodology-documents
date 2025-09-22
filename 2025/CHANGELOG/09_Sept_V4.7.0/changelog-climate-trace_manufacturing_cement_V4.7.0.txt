@@ -1,0 +1,14 @@
+### Added
+
+### Changed
+
+- [Changed] Improved the uncertainty and confidence definitions for cement assets depending on method used for activity estimation (satellite vs national/global averages).
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] Country-level emissions may be slightly overestimated, as emission factors are derived from asset data. Our current asset data has incomplete capacity coverage and is more heavily weighted towards the most emitting assets. We aim to improve this as we refine our national coverage estimates.
+

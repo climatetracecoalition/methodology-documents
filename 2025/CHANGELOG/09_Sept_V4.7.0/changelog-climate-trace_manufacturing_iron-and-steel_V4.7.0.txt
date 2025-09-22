@@ -1,0 +1,12 @@
+### Added
+
+### Changed
+
+- [Changed] Improved the uncertainty and confidence definitions for steel assets depending on method used for activity estimation (satellite vs national/global averages).
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+

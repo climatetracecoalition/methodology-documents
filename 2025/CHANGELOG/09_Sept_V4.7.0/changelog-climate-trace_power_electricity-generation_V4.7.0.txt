@@ -1,0 +1,20 @@
+### Added
+
+- [Added] Data period extended for existing sources. Start_date 2019-01-01 to end_date 2025-07-31.
+
+### Changed
+
+- [Changed] Updated Global Energy Monitor (GEM) tracker information (Coal tracker was updated using the July 2025 version & Gas/Oil tracker was updated using the August 2025 version). These can reflect changes in our estimates.
+
+- [Changed] Updated unit/plant level information due to manual research. These can reflect changes in our estimates.
+
+- [Changed] Updated links to source data. These can reflect changes in our estimates.
+
+### Fixed
+
+- [Fixed]
+
+### Known Issues
+
+- [Known Issues] For non-operational plants the data is reported as zero values for capacity, capacity factor, activity, emissions intensity, and emissions. The related uncertainties are also reported as zero. This is not strictly correct since there can be uncertainty in the operating status in a given month. Future work will better quantify the uncertainty when the plant is reported as non-operational.
+

@@ -1,0 +1,12 @@
+### Added
+
+### Changed
+
+- [Changed] Added check for previously unique assets in identically the same location (within 0.0001 degrees latitude/longitude) in the European Pollutant Release and Transfer Register (E-PRTR) dataset, and combined them into one asset.
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] Eliminated [1] duplicate: asset_identifier=eprtrFR.CAED.7598.FACILITY
+

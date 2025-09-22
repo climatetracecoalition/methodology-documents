@@ -1,0 +1,12 @@
+### Added
+
+- [Added] Data period extended for existing assets in Asia-Pacific (APAC) and the Middle East regions. Start_date 2024-10-01 to end_date 2024-12-31.
+
+### Changed
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
