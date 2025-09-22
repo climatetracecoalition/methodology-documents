@@ -3,3 +3,6 @@ Climate TRACE is implementing a Deprecation Warning System to inform users ahead
 <br>
 
 **_See the "Deprecation Warning" description in [4.7.0_combined-changelog-climate-trace.pdf](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/CHANGELOG/09_Sept_V4.7.0/4.7.0_combined-changelog-climate-trace.docx.pdf) for more information._**
+
+### Methodology Updates Notice
+Sectors that update their approach in V4.7.0 will have their methodologies updated later on. 
