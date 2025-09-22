@@ -4,9 +4,14 @@
 
 Individual sector changelogs for each monthly release can be found in their respective version folder with all the sector changelogs combined into a pdf.
 
-Starting v4.6.0 - any sector with no changelog are removed from the folder. Only sectors with changes will have their changelogs provided. 
+_**Starting V4.7.0:**_ **Deprecation Warning**
 
-When the ***PATCH*** in version number has changed (MAJOR.MINOR.***PATCH***), this indicates that an update or a bug has been fixed in the monthly release. Specific fixes and updates will be in _README.md_ in the MAJOR.MINOR.PATCH directory.
+- Climate TRACE is implementing a Deprecation Warning System to inform users ahead of time when we anticipate a breaking change in any of our data delivery mechanisms. Our goal is to help users prepare for changes and avoid disruptions to workflows.**_See the "Deprecation Warning" description in [4.7.0_combined-changelog-climate-trace.pdf](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/CHANGELOG/09_Sept_V4.7.0/4.7.0_combined-changelog-climate-trace.docx.pdf) for more information._**
+
+_**Starting V4.6.0:**_ **Removing Sector Changelogs with No Changes**
+- Any sector with no changelog are removed from the folder. Only sectors with changes will have their changelogs provided. 
+
+When the ***PATCH*** in version number has changed (MAJOR.MINOR.***PATCH***), this indicates that an update or fixed a bug in the monthly release. Specific fixes and updates will be in _README.md_ in the MAJOR.MINOR.PATCH directory.
 
 Sectors with no updates in monthly releases will have no information provided in one, or many, of the data fields provided for each sector: 
 Added; Changed; Deprecated; Fixed; Known Issues.
