@@ -1,4 +1,4 @@
-## Climate TRACE 2025 (version 4.1)
+## Climate TRACE 2025
 The 2025 database updates will be provided at the end of every month.
 
 A [*Changelogs*](https://github.com/climatetracecoalition/methodology-documents/tree/main/2025/CHANGELOG) directory is provided to describe the individual sectors that were updated every month. Sectors with significant updates will have their methodology updated to reflect these changes. 
