@@ -1,0 +1,32 @@
+### Added
+
+- [Added] New assets (cattle operations) added and updated existing coverage for the following countries: AUS, AUT, BEL, BGD, BRA, BWA, CHE, CHN, DEU, DNK, ESP, FRA, GBR, IND, IRL, ITA, LUX, MEX, NLD, NZL, PAK, POL, PRT, PRY, RUS, UKR, URY, USA, and ZAF.
+
+- [Added] New U.S. state coverage assets and updated existing coverage.
+
+### Changed
+
+- [Changed] Country-level emissions estimated with IPCC 2019 equations and emission factors. Updated methodology will be made available next release.
+
+- [Changed] Assets’ (operations) emissions estimated with IPCC 2019 equations and emission factors. It’s recommended to use this version’s emission data for analysis. Updated methodology will be made available next release.
+
+- [Changed] For cattle assets (operations) with no reported total head of cattle and not estimated with the regression model, reported and literature review determined country-level mean total head of cattle, by type, per operation.
+
+- [Changed] This version’s release has fewer operations identified in Belarus, Mexico, and Russia. A new set of cattle operations was detected to reduce false-positive locations (i.e. a poultry farm misclassified as cattle). As a result, each of these countries have fewer locations in the Climate TRACE database compared to last year’s, 2024, release.
+
+- [Changed] U.S. Department of Agriculture National Agriculture Statistics Services data were used to estimate state level mean total head of cattle for each operation within their respective U.S. states with no reported estimates or where the regression model was not applied.
+
+- [Changed] U.S. Department of Agriculture National Agriculture Statistics Services data were used to cattle on feed (capacity factor) for beef cattle operations.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] Effort has been made to reduce duplicate operations in the U.S. and globally. In the U.S., duplicates were caused when a reported location had coordinates set away from the cattle operation, not within the operation. For example, at the end of the CAFO driveway or the owner’s home not at the CAFO. Further work will continue  to deduplicate Climate TRACE cattle operations in the U.S.
+
+- [Known Issues] Duplicates and false-positive locations can exist in this sector. If found, please let us know via email and provide the asset id, and latitude and longitude information.
+
+- [Known Issues] Certain cattle operations may be multiple cattle operations combined into one. As a result, the regression model overestimated the total head of cattle at these operations. Any beef cattle operation with a total head (capacity) greater than 40,000 had their capacity set to 40,000, and any dairy farm operation with a total head (capacity) greater than 4,000 had their capacity set to 4,000. These are marked in the ‘other2’ column. Future updates will address this issue.
+

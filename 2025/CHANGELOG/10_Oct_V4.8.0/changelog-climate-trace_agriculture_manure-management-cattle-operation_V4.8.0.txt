@@ -1,0 +1,38 @@
+### Added
+
+- [Added] New assets (operations) added and updated existing asset coverage for the following countries: AUS, AUT, BEL, BGD, BRA, BWA, CHE, CHN, DEU, DNK, ESP, FRA, GBR, IND, IRL, ITA, LUX, MEX, NLD, NZL, PAK, POL, PRT, PRY, RUS, UKR, URY, USA, and ZAF.
+
+- [Added] New U.S. state coverage assets and updated existing coverage.
+
+### Changed
+
+- [Changed] Country-level emissions estimated with IPCC 2019 equations and emission factors. Updated methodology will be made available next release.
+
+- [Changed] Assets’ (cattle operations) emissions estimated with IPCC 2019 equations and emission factors. It’s recommended to use this version’s emission data for analysis. Updated methodology will be made available next release.
+
+- [Changed] For cattle operations with no reported total head of cattle and/or not estimated with the regression model, reported or literature supported country-level mean total head of cattle, by type, was applied to each individual operation.
+
+- [Changed] This version’s release has fewer operations identified in Belarus, Mexico, and Russia. A new set of cattle operations have been detected to reduce false-positive locations (i.e., a poultry farm misclassified as cattle). As a result, each of these countries has fewer locations in the Climate TRACE database relative to last year’s 2024 release.
+
+- [Changed] U.S. Department of Agriculture National Agriculture Statistics Services data were used to estimate state level mean total head of cattle for each operation within their respective U.S. states with no reported estimates or where the regression model was not applied.
+
+- [Changed] U.S. Department of Agriculture National Agriculture Statistics Services data were used to cattle on feed (capacity factor) for beef cattle operations.
+
+- [Changed] Certain cattle operations wet manure management (i.e., lagoons, ponds) were identified using a preliminary beta manure pond detection model. Updated methodology discussing this model will be made available next release.
+
+- [Changed] For cattle operations in countries where the wet manure management beta models weren't deployed, manure management types were defaulted to country-level reported management types and applied to the operations.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] Country-level cattle operation manure management emissions may be higher than what is expected for that country. For example, AFG is assigned some lagoon and liquid/slurry systems that may not exist in AFG. As a result, higher than expected emissions occur.
+
+- [Known Issues] Effort has been made to reduce duplicate operations in the U.S. and globally. In the U.S., duplicates were caused when a reported location had coordinates set away from the cattle operation, not within the operation. For example, at the end of the CAFO driveway or the owner’s home not at the CAFO. Further work will continue to deduplicate Climate TRACE cattle operations in the U.S.
+
+- [Known Issues] Duplicates and false-positive locations can exist in this sector. If found, please let us know via email and provide the asset id, and latitude and longitude information.
+
+- [Known Issues] Certain cattle operations may be multiple cattle operations combined into one. As a result, the regression model overestimated the total head of cattle at these operations. Any beef cattle operation with a total head (capacity) greater than 40,000 had their capacity set to 40,000, and any dairy farm operation with a total head (capacity) greater than 4,000 had their capacity set to 4,000. These are marked in the ‘other2’ column. Future updates will address this issue.
+

@@ -1,0 +1,16 @@
+### Added
+
+- [Added] Data period extended for existing sources; added August 2025. The end date is now August 30, 2025.
+
+### Changed
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] ISO3 country code mismatches were fixed.
+
+- [Fixed] Maximum capacities are now estimated from satellite-derived data only, over any given year. Previously, the maximum capacity of a reservoir was calculated using all surface area estimates over a given year, where the values for some months may be equal to the GRanD database surface area value if no satellite-derived estimates are available (i.e., insufficient satellite data for a given month). This resulted in some reservoirs having maximum capacities with very large variance over time, as the GRanD surface area and the satellite-derived surface area may be very different.
+
+### Known Issues
+

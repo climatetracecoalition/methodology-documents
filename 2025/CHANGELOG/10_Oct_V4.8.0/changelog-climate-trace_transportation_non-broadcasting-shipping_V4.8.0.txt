@@ -1,0 +1,14 @@
+### Added
+
+- [Added] Data period extended. Start_date 2025-09-01 to 2025-09-30
+
+### Changed
+
+- [Changed] Updated methodology will be made available next release.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+

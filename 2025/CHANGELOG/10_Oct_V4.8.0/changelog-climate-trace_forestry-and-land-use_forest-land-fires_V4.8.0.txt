@@ -1,0 +1,18 @@
+### Added
+
+### Changed
+
+- [Changed] Updated methodology will be made available next release.
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] Corrected abnormal emission values in Brazil.
+
+- [Fixed] Corrected NaN values in the confidence level column in the 2024 quarterly emissions datasets.
+
+### Known Issues
+
+- [Known Issue] The 2025 quarterly emissions dataset utilizes CTrees 2025 land use change alert (LUCA) data as the basis for estimating disturbance-related emissions. The current 2025 quarterly emission estimates may not fully attribute specific disturbance types (deforestation, degradation, and fire) that occurred in early-mid 2025.
+

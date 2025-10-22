@@ -1,0 +1,18 @@
+### Added
+
+[Added] Submitted a full refresh of the data from 2021 until July 2025.
+
+### Changed
+
+[Changed] Updated the method to report all residual production for alumina and derived capacities by region, using regional capacity factors. The previous method relied on aggregated regional capacities, which were incomplete relative to IAI production data and therefore gave the false impression that production levels were lower than they actually are. Updated methodology will be made available next release.
+
+[Changed] Updated model_number to version 3.
+
+- [Changed] Updated methodology will be made available next release.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+

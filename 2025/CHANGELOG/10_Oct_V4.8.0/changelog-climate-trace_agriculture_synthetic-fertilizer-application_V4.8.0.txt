@@ -1,0 +1,12 @@
+### Added
+
+- [Added] Data from January through August of 2025. These data were produced using forecasted yields, given that many agricultural systems have not yet harvested crops and there is typically latency in reporting yields in traditional agricultural inventories.
+
+### Changed
+
+-[Changed] Amended methodology to include updates to include detail on emissions reduction solutions. Amended methodology will be made available next release.
+
+### Deprecated
+
+### Removed
+

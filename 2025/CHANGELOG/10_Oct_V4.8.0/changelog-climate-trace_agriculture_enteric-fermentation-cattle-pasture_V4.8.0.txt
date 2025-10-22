@@ -1,0 +1,18 @@
+### Added
+
+- [Added] New updated FAO statistic data (2015-2024) used to estimate the Global 1-degree CH4 (2015–2024).
+
+### Changed
+
+- [Changed] Replaced IPCC 2006 emission factor–based CH4 estimation. Global country-level enteric fermentation CH4 emissions recalculated using the IPCC 2019 Tier 2 method. Method source link, Page 10.43-10.49: https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch10_Livestock.pdf
+
+- [Changed] Updated FAOSTAT data for slaughtered and non-dairy cattle (2015–2023). Cattle data for 2024 estimated using Holt’s linear exponential smoothing method. Updated methodology will be made available next release.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issue] We identified several countries where our initial “cattle on pasture” metric yielded negative values: Albania, Armenia, Bahamas, Bahrain, Brunei Darussalam, China (Hong Kong SAR), Faroe Islands, Israel, Jordan, Lebanon, Mauritius, Palestine, Republic of Moldova, Sao Tome and Principe, Saudi Arabia, Tunisia, Ukraine, United Arab Emirates, Azerbaijan, Syrian Arab Republic, Netherlands, Egypt, Montenegro, and Morocco. These regions generally have limited pasture; many are arid, densely populated, or are small/special administrative regions where beef consumption exceeds domestic cattle production. For these areas, we substituted the annual number of slaughtered cattle as a conservative proxy for the cattle-on-pasture population. Future work will address this issue to create a representative cattle on pasture estimate.
+

@@ -1,0 +1,20 @@
+### Added
+
+- [Added] New updated FAO statistic data (2015-2024) used to estimate the Global 1-degree CH4 (2015–2024).
+
+### Changed
+
+- [Changed] The Tier 2 method incorporates this data to apply climate-specific methane conversion factors (MCFs) and animal waste management system (AWMS) fractions.
+
+- [Changed] FAOSTAT data for slaughtered and non-dairy cattle (2015–2023). Cattle data for 2024 estimated using Holt’s linear exponential smoothing method. Updated methodology will be made available next release.
+
+- [Changed] Climate zones were assigned using the Climatic Research Unit Gridded Time Series (1991–2024) and IPCC 2019 thresholds.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issue] We identified several countries where our initial “cattle on pasture” metric yielded negative values: Albania, Armenia, Bahamas, Bahrain, Brunei Darussalam, China (Hong Kong SAR), Faroe Islands, Israel, Jordan, Lebanon, Mauritius, Palestine, Republic of Moldova, Sao Tome and Principe, Saudi Arabia, Tunisia, Ukraine, United Arab Emirates, Azerbaijan, Syrian Arab Republic, Netherlands, Egypt, Montenegro, and Morocco. These regions generally have limited pasture; many are arid, densely populated, or are small/special administrative regions where beef consumption exceeds domestic cattle production. For these areas, we substitute the annual number of slaughtered cattle as a conservative proxy for the cattle-on-pasture population.Future work will address this issue to create a representative cattle on pasture estimate.
+

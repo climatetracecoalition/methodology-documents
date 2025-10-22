@@ -1,0 +1,22 @@
+### Added
+
+- [Added] Added the estimation of process emissions (IPPU) in column “other8”. This is reported as the ratio between process emissions and direct emissions for each asset.
+
+- [Added] The submission is a full refresh of the data from 2021 until July 2025.
+
+- [Added] Country-level emissions have been submitted with adjusted emission factor values.
+
+### Changed
+
+- [Changed] Adjusted emission factors for different steel production routes to align estimates more closely with WSA and IEA data, both for direct and total emissions.
+
+- [Changed] Calibrated asset-level production values against WSA data to improve correlation with country-level production, and adjusted the emission factors at country level to also improve correlation with country-level emissions.
+
+- [Changed] Updated methodology will be made available next release.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+

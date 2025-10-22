@@ -1,0 +1,14 @@
+### Added
+
+- [Added] Data period calculated for all sources to the end of September 2025
+
+### Changed
+
+- [Changed] Updated methodology will be made available next release.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
