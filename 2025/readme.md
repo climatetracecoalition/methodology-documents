@@ -5,7 +5,7 @@ A [*Changelogs*](https://github.com/climatetracecoalition/methodology-documents/
 
 Climate TRACE 2025 updates are based on the fall 2024 database (v4.0) release, which can be found in [*READ ME_Climate TRACE_v4 release_Nov2024 - About the data_v4*](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/README/READ%20ME_Climate%20TRACE_v4%20release_Nov2024%20-%20About%20the%20data_v4.pdf).  
 
-The Climate TRACE data schema can be found in [*Climate TRACE_Detailed data schema_v4*](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/README/Climate%20TRACE_Detailed%20data%20schema_v4.csv).
+The Climate TRACE data schema can be found in [*Climate TRACE_Detailed data schema_v4*](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/README/Detailed_data_schema_v5.0.0_Nov2025.csv).
 
 ## 2025 highlights include:
   - [High resolution visualization of PM2.5 impacts on surrounding population](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Non%20Greenhouse%20Gases/High%20resolution%20visualization%20of%20PM2.5%20impacts%20on%20surrounding%20population.pdf)
