@@ -3,7 +3,7 @@ The 2025 database updates will be provided at the end of every month.
 
 A [*Changelogs*](https://github.com/climatetracecoalition/methodology-documents/tree/main/2025/CHANGELOG) directory is provided to describe the individual sectors that were updated every month. Sectors with significant updates will have their methodology updated to reflect these changes. 
 
-Climate TRACE 2025 updates are based on the fall 2024 database (v4.0) release, which can be found in [*READ ME_v5.0.0_Climate TRACE_About the data*](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/README/READ%20ME_Climate%20TRACE_v4%20release_Nov2024%20-%20About%20the%20data_v4.pdf).  
+Climate TRACE Data Licensing, Schema, and Citation Guide can be found in [*READ ME_v5.0.0_Climate TRACE_About the data*](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/README/READ%20ME_v5.0.0_Climate%20TRACE_About%20the%20data_Nov2025.pdf).  
 
 The Climate TRACE data schema can be found in [*Climate TRACE_Detailed data schema_v5.0.0*](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/README/Detailed_data_schema_v5.0.0_Nov2025.csv).
 
