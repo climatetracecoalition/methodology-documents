@@ -8,6 +8,7 @@ Climate TRACE Data Licensing, Schema, and Citation Guide can be found in [*READ 
 The Climate TRACE data schema can be found in [*Climate TRACE_Detailed data schema_v5.0.0*](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/README/Detailed_data_schema_v5.0.0_Nov2025.csv).
 
 ## 2025 highlights include:
+  - Emission Reduction Solutions (ERS) are provided to show possible strategies to reduce emissions for each sector. 
   - [High resolution visualization of PM2.5 impacts on surrounding population](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Non%20Greenhouse%20Gases/High%20resolution%20visualization%20of%20PM2.5%20impacts%20on%20surrounding%20population.pdf)
   - [Changelogs](https://github.com/climatetracecoalition/methodology-documents/tree/main/2025/CHANGELOG), detailing monthly updates. 
   - Emissions estimated for years 2015 and into 2025.
