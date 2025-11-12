@@ -10,7 +10,7 @@ The Climate TRACE data schema can be found in [*Climate TRACE_Detailed data sche
 ## 2025 highlights include:
   - [High resolution visualization of PM2.5 impacts on surrounding population](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Non%20Greenhouse%20Gases/High%20resolution%20visualization%20of%20PM2.5%20impacts%20on%20surrounding%20population.pdf)
   - [Changelogs](https://github.com/climatetracecoalition/methodology-documents/tree/main/2025/CHANGELOG), detailing monthly updates. 
-  - Emissions estimated for years 2015 to 2023 (2024 to early 2025 for some sectors).
+  - Emissions estimated for years 2015 to 2024 and into 2025 for some sectors.
   - [Emissions estimates are provided at monthly temporal resolutions](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Post%20Processing%20for%20Global%20Emissions%20and%20Metadata%20Completeness/Temporal%20Disaggregation%20of%20Emissions%20Data%20for%20the%20Climate%20TRACE%20Inventory.docx.pdf).
   - Increased asset (source-level) emissions coverage, including: cattle operations, international and domestic shipping, and wasterwater treament plants.
   - Some of the Climate TRACE 2023 (v3) sectors have been split up, such as residential and non-residential on-site fuel consumption, oil and gas production and transport, etc.
