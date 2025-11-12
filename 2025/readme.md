@@ -9,7 +9,7 @@ The Climate TRACE data schema can be found in [*Climate TRACE_Detailed data sche
 
 ## 2025 highlights include:
   - **Emission Reduction Solutions (ERS)** are provided to show possible strategies to reduce emissions. Each sector has an ERS and the Emissions-Reducing Solutions Framework for Climate TRACE can be viewed [here](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Post%20Processing%20for%20Global%20Emissions%20and%20Metadata%20Completeness/Emissions-Reducing%20Solutions%20Framework%20for%20Climate%20TRACE-112025.pdf).
-  - [High resolution visualization of PM2.5 impacts on surrounding population](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Non%20Greenhouse%20Gases/High%20Resolution%20Visualization%20of%20PM2.5%20Impacts%20on%20Surrounding%20Population-NonGHGSector-112025.pdf) and [Climate TRACE Air Pollution visualization tool](https://climatetrace.org/air-pollution/ghs-fua_1003).
+  - [High resolution visualization of PM2.5 impacts on surrounding population](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Non%20Greenhouse%20Gases/High%20Resolution%20Visualization%20of%20PM2.5%20Impacts%20on%20Surrounding%20Population-NonGHGSector-112025.pdf) and this data can be viewwed on the [Climate TRACE Air Pollution visualization tool](https://climatetrace.org/air-pollution/ghs-fua_1003).
   - [Changelogs](https://github.com/climatetracecoalition/methodology-documents/tree/main/2025/CHANGELOG), detailing monthly updates. 
   - Emissions estimated for years 2015 and into 2025.
   - [Emissions estimates are provided at monthly temporal resolutions](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Post%20Processing%20for%20Global%20Emissions%20and%20Metadata%20Completeness/Temporal%20Disaggregation%20of%20Emissions%20Data%20for%20the%20Climate%20TRACE%20Inventory.docx.pdf).
@@ -31,4 +31,4 @@ Geospatial data for agriculture, forestry, buildings, and transport sectors are 
   3) [Disaggregation of Spatially Uncertain Emissions](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Post%20Processing%20for%20Global%20Emissions%20and%20Metadata%20Completeness/Disaggregation%20of%20Spatially%20Uncertain%20Emissions-112025.docx.pdf)
   4) [Temporal Disaggregation of Emissions Data for the Climate TRACE Inventory](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Post%20Processing%20for%20Global%20Emissions%20and%20Metadata%20Completeness/Temporal%20Disaggregation%20of%20Emissions%20Data%20for%20the%20Climate%20TRACE%20Inventory-112025.docx.pdf). This was applied to all sectors to harmonize their temporal resolutions - annual or quarterly - into monthly emission estimates.
 
- *The datasets 1 to 4 are available upon request at coalition@climatetrace.org*
+ *Questions? Email us at: coalition@climatetrace.org*
