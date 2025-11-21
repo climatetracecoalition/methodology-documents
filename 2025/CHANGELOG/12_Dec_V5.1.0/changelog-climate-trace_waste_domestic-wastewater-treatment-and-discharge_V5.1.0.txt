@@ -1,0 +1,28 @@
+### Added
+
+- [Added] Data period extended for existing sources. Start_date 2025-08-01 to end_date 2025-09-30. Now all data runs from 2015-01-01 to 2025-09-30.’
+
+### Changed
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] Used historic asset IDs for assets in the HydroWASTE dataset. Updated untreated wastewater IDs to a simple index without embedded metadata
+
+- [Fixed] Updated asset IDs for untreated assets in the strategy crosswalk file (untreated only; other WWTP IDs are unchanged since Sept).
+
+- [Fixed] Manually adjusted 10 assets for which the ISO3 and country values were misaligned.
+
+- [Fixed] Manually adjusted 4 assets for which the location coordinates were insufficiently precise in the underlying dataset. 6 other coordinates were investigated and could not be updated based on satellite imagery.
+
+- [Fixed] Temporal anomalies (related to asset ID assignment).
+
+### Known Issues
+
+- [Known Issues] Duplicate assets, issue originating from underlying dataset
+
+- [Known Issues] 56 additional assets have location coordinates which are insufficiently precise, and which have not been verified.
+
+- [Known Issues] 133 countries have a marked increase or decrease in August-September 2025, compared to behavior in the same months for 2024. For global totals, this leads to a net increase inconsistent with the time-series from historical data and will be addressed in the next release.
+

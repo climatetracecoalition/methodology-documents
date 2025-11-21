@@ -1,0 +1,12 @@
+### Added
+
+### Changed
+
+### Deprecated
+
+- [Deprecated] Due to a lack of U.S. 2025 forecasted activity data, all modeled 2025 data, for all countries, has been removed to maintain consistency. Any 2025 data that is generated is done by post-processing.
+
+### Fixed
+
+### Known Issues
+

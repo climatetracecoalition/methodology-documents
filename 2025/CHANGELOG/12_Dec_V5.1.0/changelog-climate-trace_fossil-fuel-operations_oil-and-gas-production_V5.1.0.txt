@@ -1,0 +1,18 @@
+### Added
+
+### Changed
+
+- [Changed] Satellite emissions attribution improvements.
+
+### Deprecated
+
+- [Deprecated] Due to a lack of U.S. 2025 forecasted activity data, all modeled 2025 data, for all countries, has been removed to maintain consistency. Any 2025 data that is generated is done by post-processing.
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] Because model runs for the US are currently only available for 2023 and 2024, backfilled and forward-filled output production values include some inherent uncertainty. Since activity and intensity influence one another, this limitation has resulted in artificial changes in activity levels leading to a drop in emissions for U.S. assets in 2025.
+
+- [Known Issues] JDA fields production backfill errors are making Malaysia and Thailand total emissions skewed
+

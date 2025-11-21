@@ -1,0 +1,14 @@
+### Added
+
+### Changed
+
+- [Changed] Assets of unknown type are assigned "Sanitary Landfill" if they are in a country determined to be high income by the World Bank; all others are assigned "Dumpsite".
+
+### Deprecated
+
+### Fixed
+
+= [Fixed] Area-to-incoming-waste model now correctly has group-specific slopes.
+
+### Known Issues
+

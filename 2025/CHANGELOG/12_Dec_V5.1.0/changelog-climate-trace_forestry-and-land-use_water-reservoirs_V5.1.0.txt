@@ -1,0 +1,12 @@
+### Added
+
+- [Added] Data period extended for existing sources. The end_date is now September 30, 2025.
+
+### Changed
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+

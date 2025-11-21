@@ -1,0 +1,16 @@
+### Added
+
+- [Added] Data period extended for existing sources in North America and Europe. Start_date 2025-01-01 to end_date 2025-03-31.
+
+-[Added] Non-GHG emissions for existing sources in Europe and North America. CO, N2O, PM10, PM2.5, SO2, and VOC emissions are modeled. For methodology for non-ghg emissions please visit methodology: https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Manufacturing%20and%20Industrial%20Processes/Petrochemical%20Ethylene%20Steam%20Cracker%20Emissions-ManufacturingandIndustrialProcessesSector-112025.docx.pdf
+
+### Changed
+
+- [Changed] Updated United States capacity factor to adjust for EIA purity stream definition of 90% ethane.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+

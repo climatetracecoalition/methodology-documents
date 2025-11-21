@@ -1,0 +1,18 @@
+### Added
+
+- [Added] Data period extended for existing sources. Start_date 2020-01-01 to end_date 2024-12-31.
+
+- [Added] Added coverage. 31 new sources were added (4 in AUS, 4 in BRA, 2 in CAN, 4 in CHN, 15 in IND, 1 in PHL, 5 in UKR).
+
+### Changed
+
+- [Changed] Updated metadata [location, capacity_factor, activity, CO2_emissions_factor, CO2_emissions]
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] Previous releases had mines with reported capacity factors greater than 1 due to outdated/inaccurate capacity data. In these cases, capacity factor was set to null. Post-processing was done to ensure capacity factor is not greater than 1.
+
+### Known Issues
+

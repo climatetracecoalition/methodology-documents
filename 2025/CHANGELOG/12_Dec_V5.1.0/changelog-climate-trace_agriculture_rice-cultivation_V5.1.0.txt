@@ -1,0 +1,14 @@
+### Added
+
+- [Added] 2021 - 2024 yearly historical data for MLI and NGA.
+
+### Changed
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] We identified an issue where monthly emissions associated with rice cultivation in Southeast Asia are concentrated in the harvest month rather than the distributing emissions throughout the growing season. We will implement an approach to more evenly distribute those emissions in an upcoming data release.
+

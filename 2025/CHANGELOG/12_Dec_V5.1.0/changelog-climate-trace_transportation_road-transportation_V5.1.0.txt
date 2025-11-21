@@ -1,0 +1,16 @@
+### Added
+
+- [Added] Data period extended for existing sources. New end_date 2025-09-30.
+
+### Changed
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] Have not updated to the latest Climate TRACE patch of GADM data (v1.1.2).
+
+- [Known Issues] Some countries have spuriously inflated emissions for 2025. Particular examples include: Indonesia, Timor-Leste, Dominican Republic, Malawi, Tanzania, Democratic Republic of the Congo, Paraguay, Peru, Rwanda, Haiti, Uruguay, Uganda, Vanuatu, Fiji, Micronesia, Kenya, Tokelau, Solomon Islands, Iran, Colombia, and Gambia.
+

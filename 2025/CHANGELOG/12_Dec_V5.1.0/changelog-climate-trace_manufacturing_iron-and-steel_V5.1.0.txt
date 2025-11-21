@@ -1,0 +1,14 @@
+### Added
+
+- [Added] Added new month, August 2025 data included in this release.
+
+### Changed
+
+### Deprecated
+
+### Fixed
+
+[Fixed] Corrected the idled and retired dates for steel assets sourced from the tracker.
+
+### Known Issues
+

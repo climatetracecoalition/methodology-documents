@@ -1,0 +1,18 @@
+### Added
+
+- [Added] Data period extended for existing assets in the US and Europe. Start_date 2025-01-01 to end_date 2025-03-31.
+
+- [Added] Separately modeled SO2 and PM2.5, so added two emission factors columns and two absolute emissions columns in the asset sheet, uncertainty sheet, and confidence sheet. Added the non-GHG results in the asset sheet and confidence sheet, while uncertainty results will be updated next round.
+
+### Changed
+
+- [Changed] Updated 2024 annual SO2 emissions and PM2.5 emissions for all refining assets, given the non-GHG data categories change and methodology adjustment.
+
+### Deprecated
+
+[Deprecated] Dropped all five environmental impact indicators in columns other 1 to 5 given that non-GHG results are added.
+
+### Fixed
+
+### Known Issues
+
