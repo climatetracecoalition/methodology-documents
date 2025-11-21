@@ -1,6 +1,6 @@
 ## Climate TRACE 2025 Changelogs
 
-<h3 align="center">The Current Changelog Version is 5.0.0 (2025-11-11)</h3>
+<h3 align="center">The Current Changelog Version is 5.1.0 (2025-12-01)</h3>
 
 Individual sector changelogs for each monthly release can be found in their respective version folder with all the sector changelogs combined into a pdf.
 
