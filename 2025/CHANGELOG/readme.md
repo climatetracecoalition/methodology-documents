@@ -4,6 +4,9 @@
 
 Individual sector changelogs for each monthly release can be found in their respective version folder with all the sector changelogs combined into a pdf.
 
+_**V5.2.0 Updates:**_
+- A bug was found in 'domestic-wastewater-treatment-and-discharge' in V5.1.0. This has been fixed in V5.2.0.
+  
 _**V5.0.0 Updates:**_
 - Emission Reduction Solutions (ERS) are provided to show possible strategies to reduce emissions. Each sector has an ERS and the Emissions-Reducing Solutions Framework can be found in the 2025 methodology folder.
 
