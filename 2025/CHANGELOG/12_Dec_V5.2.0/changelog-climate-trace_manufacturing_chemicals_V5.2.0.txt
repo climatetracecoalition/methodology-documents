@@ -1,0 +1,14 @@
+### Added
+
+### Changed
+
+- [Changed] Resubmission of asset dataset with duplicates removed & asset location fixed (see below). Start_date 2021-01-01 to end_date 2024-12-31.
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] Corrected location for asset 45257091.
+
+### Known Issues
+

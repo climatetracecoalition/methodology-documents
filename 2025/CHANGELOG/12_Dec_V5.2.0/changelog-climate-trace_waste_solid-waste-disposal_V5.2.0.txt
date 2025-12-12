@@ -1,0 +1,20 @@
+### Added
+
+### Changed
+
+- [Changed] Previous releases’ monthly data were created by disaggregating annual estimates. For this release, monthly data is now generated natively with modeling.
+
+- [Changed] Previously, the area-to-incoming-waste model intercept was not set to (0,0). The (0,0) intercept has been reintroduced to this version update. As a result, modeled waste based on landfill size has been changed for landfills that use this model.
+
+- [Changed] Sites flagged by International Methane Emissions Observatory (IMEO) as ‘not waste sites’ were removed.
+
+- [Changed] Aligned ISO3 codes to asset latitude and longitude. Previously, ISO3 codes did not match their respective latitude and longitude location.
+
+- [Changed] Adjusted emissions and waste in place projection model for non-first-order decay (FOD) sites.
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+

@@ -1,0 +1,20 @@
+### Added
+
+- [Added] Japan (JPN) coverage to the Climate TRACE database- an estimated 2,287 assets (cattle operations) have been identified. See methodology for more information: https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/Agriculture/Cattle%20Operations-%20Asset-level%20Enteric%20Fermentation%20and%20Manure%20Management%20Emissions-AgricultureSector-112025.docx.pdf
+
+- [Added] JPN cattle operations wet manure management (i.e., lagoon ponds) were identified using a preliminary beta manure pond detection model.
+
+### Changed
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] Effort has been made to reduce duplicate operations in the U.S. and globally. In the U.S., this was caused when a reported state government CAFOs had location coordinates set away from the operation        not within the operation. For example, at the end of the CAFO driveway leading into the operation or the owners home away from the CAFO. Further work will continue to deduplicate Climate TRACE cattle operations in the U.S.
+
+- [Known Issues] Duplicates and false-positive locations can exist for this sector. If found, please let us know via email and provide the asset id        and latitude and longitude information.
+
+- [Known Issues] Certain cattle operations may be multiple cattle operations combined into one. As a result, the regression model overestimated the total head of cattle at these operations. Any beef cattle operation with a total head (capacity) greater than 40,000 had their capacity capped at 40,000. Additionally, any dairy farm operation with a total head (capacity) greater than 4,000 had their capacity capped at 4,000. These are marked in the ‘other2’ column. Future updates will address this issue.
+

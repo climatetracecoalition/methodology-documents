@@ -1,0 +1,20 @@
+### Added
+
+- [Added] Data period extended for existing sources (start_date 2025-10-01 to end_date 2025-10-31).
+
+- [Added] Data period updated for historic country data (start_date 2015-01-01 to end_date 2025-09-30).
+
+- [Added] Data period updated for historic asset data (start_date 2021-01-01 to end_date 2025-09-30)
+
+### Changed
+
+- [Changed] Fixed inflated 2025 emissions data
+
+### Deprecated
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] Have not updated to the latest Climate TRACE patch of GADM data (v1.1.2).
+

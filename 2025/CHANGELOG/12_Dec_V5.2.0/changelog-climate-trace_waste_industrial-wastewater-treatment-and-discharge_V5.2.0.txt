@@ -1,0 +1,20 @@
+### Added
+
+- [Added] Data period extended for existing sources. Start_date 2025-10-01 to end_date 2025-11-30. Now all data runs from 2015-01-01 to 2025-11-30.
+
+### Changed
+
+- [Changed] Previous versions’ country-level data from start_date 2015-01-01 to end_date 2025-10-31 excluded `untreated wastewater` contributions. This release includes ‘untreated wastewater’ contributions.
+
+### Deprecated
+
+### Fixed
+
+- [Fixed] Updated country data has corrected erroneously high emissions for some countries for July - September 2025 in V5.1.0.
+
+### Known Issues
+
+- [Known Issues] Duplicate assets, issues originating from underlying dataset.
+
+- [Known Issues] 56 additional assets have location coordinates which are insufficiently precise, and which have not been verified.
+

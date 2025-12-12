@@ -1,0 +1,18 @@
+### Added
+
+- [Added] Data period extended for existing sources. Start_date 2019-01-01 to end_date 2025-10-31.
+
+### Changed
+
+- [Changed] Updated unit/plant level information due to manual research. These can reflect changes in our estimates.
+
+- [Changed] Updated and added new links to source data. These can reflect changes in our estimates.
+
+- [Changed] Updated reported generation validation tests.
+
+### Fixed
+
+### Known Issues
+
+- [Known Issues] For non-operational plants the data is reported as zero values for capacity, capacity factor, activity, emissions intensity, and emissions.  The related uncertainties are also reported as zero. This is not strictly correct since there can be uncertainty in the operating status in a given month. Future work will better quantify the uncertainty when the plant is reported as non-operational.
+
