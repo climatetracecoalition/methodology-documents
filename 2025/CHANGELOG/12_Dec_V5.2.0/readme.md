@@ -9,3 +9,6 @@ For the current (V5.2.0) release, the following Deprecation Warning is now in ef
 - [Fixed] Country emissions for domestic-wastewater-treatment were missing in V5.1.0 for January 2015 for all countries. Fixed in this release.
 ### Known Issues
 - [Known Issues] For sectors with native temporal granularity of “quarterly”, published monthly data (including emissions_quantity, activity, capacity, etc.) are rounded to the 5th decimal place, which results in very small values being rounded down to 0. Affected sectors: ‘enteric-fermentation-cattle-operation’ and ‘manure-management-cattle-operation’.
+
+## ClimateTRACE,individual-changelogs
+See indiviudal text files and the '5.2.0_combined-changelog-climate-trace.pdf'. 
