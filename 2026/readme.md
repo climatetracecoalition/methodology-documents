@@ -1,7 +1,7 @@
 ## Climate TRACE 2026
 The 2026 database updates will be provided at the end of every month.
 
-A [*Changelogs*](https://github.com/climatetracecoalition/methodology-documents/tree/main/2025/CHANGELOG) directory is provided to describe the individual sectors that were updated every month. Sectors with significant updates will have their methodology updated to reflect these changes. 
+A [*Changelog*](https://github.com/climatetracecoalition/methodology-documents/tree/main/2026/CHANGELOG) directory is provided to describe the individual sectors that were updated every month. Sectors with significant updates will have their methodology updated to reflect these changes. 
 
 Climate TRACE Data Licensing, Schema, and Citation Guide can be found in [*READ ME_v5.0.0_Climate TRACE_About the data*](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/README/READ%20ME_v5.0.0_Climate%20TRACE_About%20the%20data_Nov2025.pdf).  
 
