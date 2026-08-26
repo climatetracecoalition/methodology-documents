@@ -1,6 +1,6 @@
 <h1 align="center"><ins>## Climate TRACE 2026 Changelogs ## <ins></h1>
 
-*<h3 align="center">The Current Changelog Version is 5.9.0 (2026-07-29)</h3>*
+*<h3 align="center">The Current Changelog Version is 5.10.0 (2026-08-26)</h3>*
 
 Sector changelogs for each monthly release can be found in the combined changelog pdf. Individual changelogs will not be provided starting in 2026.
 
