@@ -29,4 +29,5 @@
 | See the publications, peer-reviewed articles, and mentions of the Climate TRACE research and sectors | [Peer-reviewed publications](https://github.com/climatetracecoalition/peer-reviewed-publications) |
 | Understand why our numbers differ from national inventories | [How Climate TRACE compares to other inventories](https://climatetrace.org/faqs#how-does-climate-trace-compare-to-other-emissions-inventories) |
 | Get my questions answered | [Climate TRACE FAQ](https://climatetrace.org/faqs) |
-| Ask a question or flag an error | [Contact us](https://climatetrace.org/contact) |
+
+<h2 align="center"><em>Still have a question or need to flag an error? <a href="https://climatetrace.org/contact">Contact us</a></em></h2>
