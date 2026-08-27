@@ -4,8 +4,8 @@
 
 <h2 align="center">Current data release: v5.10.0 (August 2026)</h2>
 <h3 align="center">
-  <a href="https://climatetrace.org">Explore the data</a> ·
-  <a href="https://climatetrace.org/data">Download the data</a> ·
+  <a href= "https://climatetrace.org">Explore the data</a> |
+  <a href="https://climatetrace.org/data">Download the data</a>
 </h3>
 
 ---
