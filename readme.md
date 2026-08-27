@@ -2,7 +2,9 @@
   <img src="https://github.com/climatetracecoalition/methodology-documents/assets/69821731/3199680a-cf8e-4768-8c09-32db52e4be70" alt="Climate TRACE" width="650">
 </p>
 
-<h2 align="center">Current data release: v5.10.0 (August 2026)</h2>
+<h2 align="center">
+  <a href= "https://github.com/climatetracecoalition/methodology-documents/tree/main/2026/CHANGELOG">Current data release: v5.10.0 (August 2026)</a>
+</h2>
 <h3 align="center">
   <a href= "https://climatetrace.org">Explore the data</a> |
   <a href="https://climatetrace.org/data">Download the data</a>
