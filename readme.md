@@ -5,8 +5,7 @@
 <h2 align="center">Current data release: v5.10.0 (August 2026)</h2>
 <h3 align="center">
   <a href="https://climatetrace.org">Explore the data</a> ·
-  <a href="https://climatetrace.org/data">Data</a> ·
-  <a href="https://climatetrace.org/approach">Our approach</a>
+  <a href="https://climatetrace.org/data">Download the data</a> ·
 </h3>
 
 ---
@@ -18,8 +17,9 @@
    > methodologies live in `2025/`; the `2026/` folder holds monthly changelogs for the v5.x releases.
 ---
 ## **New to Climate TRACE? Start here:**
-1. **[About the data](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/README/READ%20ME_v5.0.0_Climate%20TRACE_About%20the%20data_Nov2025.pdf)** — what the dataset covers, licensing, and how to cite it.
-2. **[Data schema](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/README/Detailed_data_schema_v5.0.0_Nov2025.csv)** — every field in the dataset, defined.
+1. **[How we estimate emissions](https://climatetrace.org/approach)** - how we use satellites, other remote sensing techniques, and AI to deliver global emissions.
+2. **[About the data](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/README/READ%20ME_v5.0.0_Climate%20TRACE_About%20the%20data_Nov2025.pdf)** — what the dataset covers, licensing, and how to cite it.
+3. **[Sectors we cover and data schema](https://github.com/climatetracecoalition/methodology-documents/blob/main/2025/README/Detailed_data_schema_v5.0.0_Nov2025.csv)** — every field in the dataset, defined.
 
 **Looking for something specific?**
 
