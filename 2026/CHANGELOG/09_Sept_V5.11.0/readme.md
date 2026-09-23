@@ -171,7 +171,7 @@ fixed in V5.11.
 
 ### Known Issues
 
-- [Known Issues] AUS
+- [Known Issues] AUS country-level emissions jump after 2019. This is because the mean dairy cattle count applied to identified operations is derived from two datasets whose reported year coverage doesn't overlap. As a result, 2015–2018 show a lower mean dairy cattle count relative to 2019 onward. This will be fixed in a future release.
 
 - [Known Issues] Effort has been made to reduce duplicate operations
 in the U.S. and globally. In the U.S. this was caused when a reported
