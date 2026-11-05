@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-  <a href= "https://github.com/climatetracecoalition/methodology-documents/tree/main/2026/CHANGELOG">Current data release: v5.10.0 (August 2026)</a>
+  <a href= "https://github.com/climatetracecoalition/methodology-documents/tree/main/2026/CHANGELOG">Current data release: v5.12.0 (October 2026)</a>
 </h2>
 <h3 align="center">
   <a href= "https://climatetrace.org">Explore the data</a> |
