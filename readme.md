@@ -1,3 +1,26 @@
+> [!IMPORTANT]
+> **This repository has moved and is no longer updated.**
+> Current Climate TRACE methodologies, changelogs, and data guides are now maintained at
+> **[climatetracecoalition/emissions-methodology](https://github.com/climatetracecoalition/emissions-methodology)**.
+>
+> This repository is archived and read-only. Existing links to files here will keep working,
+> but they point to older versions.
+
+## Where to find things now
+
+| You were looking for | Now located at |
+|---|---|
+| Current sector methodologies (2025 folder) | [Sector-Methodologies/1-Sectors](https://github.com/climatetracecoalition/emissions-methodology/tree/main/Sector-Methodologies/1-Sectors) |
+| Asset ownership, non-GHG, other sectors, post-processing | [Sector-Methodologies/2-Cross-Cutting](https://github.com/climatetracecoalition/emissions-methodology/tree/main/Sector-Methodologies/2-Cross-Cutting) |
+| 2022, 2023 and 2024 methodologies | [Sector-Methodologies/3-Archive](https://github.com/climatetracecoalition/emissions-methodology/tree/main/Sector-Methodologies/3-Archive) |
+| Changelogs (2025 and 2026 CHANGELOG folders) | [Changelogs](https://github.com/climatetracecoalition/emissions-methodology/tree/main/Changelogs) |
+| Publications and references | [Publications-and-References](https://github.com/climatetracecoalition/emissions-methodology/tree/main/Publications-and-References) |
+| How to cite | [CITATION.cff](https://github.com/climatetracecoalition/emissions-methodology/blob/main/CITATION.cff) |
+
+Questions or errors: [climatetrace.org/contact](https://climatetrace.org/contact)
+
+---
+
 <p align="center">
   <img src="https://github.com/climatetracecoalition/methodology-documents/assets/69821731/3199680a-cf8e-4768-8c09-32db52e4be70" alt="Climate TRACE" width="650">
 </p>
